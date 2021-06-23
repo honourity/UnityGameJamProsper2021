@@ -51,22 +51,22 @@ public class VoiceManager : MonoBehaviour
 		//default fallback voice
 		var voice = "en-US-Wavenet-A";
 
-		var sourceComponentId = source.components.FirstOrDefault().id;
+		var sourceComponentId = source.components.FirstOrDefault()?.id;
 		var component = ArcweaveManager.Instance.Project.components.FirstOrDefault(c => c.id == sourceComponentId);
 
-		if (component.realName == "Milton")
+		if (component?.realName == "Milton")
         {
 			voice = "en-GB-Wavenet-B";
 		}
-		else if (component.realName == "Stella")
+		else if (component?.realName == "Stella")
         {
 			voice = "en-US-Wavenet-F";
 		}
-		else if (component.realName == "Sally")
+		else if (component?.realName == "Sally")
 		{
 			voice = "en-GB-Wavenet-C";
 		}
-		else if (component.realName == "Rusty")
+		else if (component?.realName == "Rusty")
 		{
 			voice = "en-GB-Standard-B";
 		}
