@@ -1,0 +1,1147 @@
+{
+    "startingElement": "d0e791fc-e269-4f24-9b6e-ecb5d4928dc3",
+    "boards": {
+        "592d113b-5567-4a6a-b72d-847e275b4518": {
+            "name": "TalkToStella",
+            "notes": [
+                "afafa222-d4fe-4f2d-9b03-ce73f5e1c1a7"
+            ],
+            "jumpers": [],
+            "branches": [],
+            "elements": [
+                "bdd91677-1a89-4519-a5d7-021dfc13b7eb",
+                "f5637ede-8aaf-4c40-91eb-dbabede0d646",
+                "1aa1be96-7a6a-4287-b141-40f9f6810e6a",
+                "732d23f0-39e0-4f7b-9139-03abb0260012",
+                "04481d89-e590-4750-a340-c99b471890c0",
+                "21decbf6-867e-489d-891c-d37def5f5511",
+                "67cd8cb9-4eac-4882-b9f5-6eef26c13aae",
+                "830125c9-a81c-42f9-9ef2-c1d03b3f7278",
+                "4b581703-7196-4357-b129-7c69d86a4e60",
+                "2dc5a230-d4a8-4c6f-81d0-e1b864e01055",
+                "adde39bf-b089-4279-b290-b9fd02843f75",
+                "27d25690-8f7e-464a-bbd8-d06f2db0def8",
+                "3ba63daf-6f96-4e13-8197-156cefe7e15d",
+                "f1b82be7-3aae-4b45-8986-32b4db9cdb34",
+                "a7ea1688-0e6c-484e-8912-66d69c351952",
+                "d0e791fc-e269-4f24-9b6e-ecb5d4928dc3",
+                "478f1c77-0648-4b84-a360-4b98808a1749"
+            ],
+            "connections": [
+                "18c7ffdd-4091-4f4b-a01f-cb72787e7a17",
+                "6ce3856c-bb4c-47b0-af21-84eee3b2fc82",
+                "4656b614-b916-409b-b9df-58c736ab6caa",
+                "f7296acc-ce9e-4188-8296-d97759a75ab4",
+                "dd67b935-9a78-42c5-adb4-e2fb2f67a7b2",
+                "c50bb07c-bd2b-4e25-a349-7afef58a51c9",
+                "0ecc42a9-a504-408d-b5a7-06cadb9a7a6f",
+                "9b9954e2-04cd-4a0b-b36e-c9b073a5bcef",
+                "00ef215b-148c-4292-bce4-8bccf47e55d1",
+                "3d5804db-f054-4c49-9b09-5b6073394290",
+                "cc63483e-4d0f-40f9-80b0-c9fde242a427",
+                "b46270f3-0632-4a08-b11a-93cd123b6d56",
+                "9ad35d60-f752-4ce3-9149-3762aa073d30",
+                "5d3a41b1-7032-4299-b6da-5fe3a5aff398",
+                "e10f02f9-19a2-474e-9b9b-3f4437e0fd03",
+                "623f3685-d0b2-4eed-889b-4a14a56223f7",
+                "82ae25bb-25c4-4405-9730-5ef76e3c9370",
+                "8a770480-a7d0-47bc-949b-0d5b2ab0964a",
+                "00e70d35-1f59-4f9f-af00-8e2b6265b1fe",
+                "6a9918d3-dfe5-476f-acd5-41314cd798cf",
+                "10b4e097-6e9e-4a98-b453-0e400b6cf150"
+            ]
+        }
+    },
+    "notes": {
+        "afafa222-d4fe-4f2d-9b03-ce73f5e1c1a7": {
+            "theme": "default",
+            "content": "<p>1 to 3 sentences in one node. (with voice over attached).<\/p><p><\/p><p>1 animation per node.<\/p>"
+        }
+    },
+    "elements": {
+        "bdd91677-1a89-4519-a5d7-021dfc13b7eb": {
+            "theme": "default",
+            "title": "<p>No, Thank You<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "550003ea-6024-4844-b183-52d1eaa70f29"
+                }
+            },
+            "content": "<p>No, Thank You<\/p><p><\/p>",
+            "outputs": [
+                "8a770480-a7d0-47bc-949b-0d5b2ab0964a"
+            ],
+            "components": [
+                "df3e55bf-b838-46d6-aad4-d4575bc9be99"
+            ],
+            "linkedBoard": null
+        },
+        "f5637ede-8aaf-4c40-91eb-dbabede0d646": {
+            "theme": "default",
+            "title": "<p>No, I Don't<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "550003ea-6024-4844-b183-52d1eaa70f29"
+                }
+            },
+            "content": "<p>No, I Don't<\/p><p><\/p>",
+            "outputs": [
+                "623f3685-d0b2-4eed-889b-4a14a56223f7"
+            ],
+            "components": [
+                "df3e55bf-b838-46d6-aad4-d4575bc9be99"
+            ],
+            "linkedBoard": null
+        },
+        "1aa1be96-7a6a-4287-b141-40f9f6810e6a": {
+            "theme": "blue",
+            "title": "<p>Ok Goodbye<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0"
+                }
+            },
+            "content": "<p>Okay<\/p><p>That's it for today.<\/p><p>Goodbye!<\/p><p><\/p>",
+            "outputs": [],
+            "components": [],
+            "linkedBoard": null
+        },
+        "732d23f0-39e0-4f7b-9139-03abb0260012": {
+            "theme": "blue",
+            "title": "<p>Yes Lets Paint<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0"
+                }
+            },
+            "content": "<p>Okay, let's paint!<\/p><p><\/p>",
+            "outputs": [],
+            "components": [],
+            "linkedBoard": null
+        },
+        "04481d89-e590-4750-a340-c99b471890c0": {
+            "theme": "default",
+            "title": "<p>Yes .... please<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "550003ea-6024-4844-b183-52d1eaa70f29"
+                }
+            },
+            "content": "<p>Yes .... please<\/p><p><\/p>",
+            "outputs": [
+                "00ef215b-148c-4292-bce4-8bccf47e55d1"
+            ],
+            "components": [
+                "2a3f1033-bb78-4c68-9076-697f16577a28"
+            ],
+            "linkedBoard": null
+        },
+        "21decbf6-867e-489d-891c-d37def5f5511": {
+            "theme": "blue",
+            "title": "<p>Would you like to paint?<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0"
+                }
+            },
+            "content": "<p>I paint in the garden!<\/p><p>Would you like to paint?<\/p>",
+            "outputs": [
+                "9b9954e2-04cd-4a0b-b36e-c9b073a5bcef",
+                "82ae25bb-25c4-4405-9730-5ef76e3c9370"
+            ],
+            "components": [
+                "df3e55bf-b838-46d6-aad4-d4575bc9be99"
+            ],
+            "linkedBoard": null
+        },
+        "67cd8cb9-4eac-4882-b9f5-6eef26c13aae": {
+            "theme": "default",
+            "title": "<p>Yes I Do<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "550003ea-6024-4844-b183-52d1eaa70f29"
+                }
+            },
+            "content": "<p>Yes I Do<\/p><p><\/p>",
+            "outputs": [
+                "0ecc42a9-a504-408d-b5a7-06cadb9a7a6f"
+            ],
+            "components": [
+                "2a3f1033-bb78-4c68-9076-697f16577a28"
+            ],
+            "linkedBoard": null
+        },
+        "830125c9-a81c-42f9-9ef2-c1d03b3f7278": {
+            "theme": "blue",
+            "title": "<p>Do you like Painting? -pos<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0"
+                }
+            },
+            "content": "<p>Great!<\/p><p>Do you like ...?<\/p><p>Painting?<\/p>",
+            "outputs": [
+                "c50bb07c-bd2b-4e25-a349-7afef58a51c9",
+                "5d3a41b1-7032-4299-b6da-5fe3a5aff398"
+            ],
+            "components": [
+                "54cd26e6-abef-41a3-96c4-5f2643be82e0",
+                "06449d84-2f86-4e43-849d-5f8e36c222f2"
+            ],
+            "linkedBoard": null
+        },
+        "4b581703-7196-4357-b129-7c69d86a4e60": {
+            "theme": "blue",
+            "title": "<p>Do you like Painting? -neg<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0"
+                }
+            },
+            "content": "<p>O no!<\/p><p>Do you like ...?<\/p><p>Painting?<\/p><p><\/p>",
+            "outputs": [
+                "dd67b935-9a78-42c5-adb4-e2fb2f67a7b2",
+                "e10f02f9-19a2-474e-9b9b-3f4437e0fd03"
+            ],
+            "components": [],
+            "linkedBoard": null
+        },
+        "2dc5a230-d4a8-4c6f-81d0-e1b864e01055": {
+            "theme": "default",
+            "title": "<p>Positive Reactions<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "550003ea-6024-4844-b183-52d1eaa70f29"
+                }
+            },
+            "content": "<p><\/p><p><\/p>",
+            "outputs": [
+                "4656b614-b916-409b-b9df-58c736ab6caa"
+            ],
+            "components": [
+                "7569a10c-dcd9-4f92-89ca-590135f5864a",
+                "989691e2-c236-4adc-9bb6-cdff0246366e",
+                "06449d84-2f86-4e43-849d-5f8e36c222f2"
+            ],
+            "linkedBoard": null
+        },
+        "adde39bf-b089-4279-b290-b9fd02843f75": {
+            "theme": "default",
+            "title": "<p>Negative Reactions<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "550003ea-6024-4844-b183-52d1eaa70f29"
+                }
+            },
+            "content": "<p><\/p>",
+            "outputs": [
+                "f7296acc-ce9e-4188-8296-d97759a75ab4",
+                "6a9918d3-dfe5-476f-acd5-41314cd798cf",
+                "10b4e097-6e9e-4a98-b453-0e400b6cf150"
+            ],
+            "components": [
+                "cf8b5e17-1226-46dd-9fc9-05540b978b64",
+                "69121a0c-d18f-4084-885c-3448de55f043",
+                "6f8cd3cf-e0e3-4d8b-b895-045906ed49d5"
+            ],
+            "linkedBoard": null
+        },
+        "27d25690-8f7e-464a-bbd8-d06f2db0def8": {
+            "theme": "blue",
+            "title": "<p>How are you today?<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0"
+                }
+            },
+            "content": "<p>How are you today?<\/p><p><\/p>",
+            "outputs": [
+                "b46270f3-0632-4a08-b11a-93cd123b6d56",
+                "9ad35d60-f752-4ce3-9149-3762aa073d30"
+            ],
+            "components": [],
+            "linkedBoard": null
+        },
+        "3ba63daf-6f96-4e13-8197-156cefe7e15d": {
+            "theme": "default",
+            "title": "<p>Drawing Reaction<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "550003ea-6024-4844-b183-52d1eaa70f29"
+                }
+            },
+            "content": "<p>Wow!<\/p><p>or<\/p><p>Yay<\/p>",
+            "outputs": [
+                "6ce3856c-bb4c-47b0-af21-84eee3b2fc82",
+                "00e70d35-1f59-4f9f-af00-8e2b6265b1fe"
+            ],
+            "components": [
+                "54cd26e6-abef-41a3-96c4-5f2643be82e0",
+                "06449d84-2f86-4e43-849d-5f8e36c222f2"
+            ],
+            "linkedBoard": null
+        },
+        "f1b82be7-3aae-4b45-8986-32b4db9cdb34": {
+            "theme": "blue",
+            "title": "<p>I'm A Stork<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0"
+                }
+            },
+            "content": "<p>I'm a stork.<\/p><p>I like drawing my friends!<\/p>",
+            "outputs": [
+                "18c7ffdd-4091-4f4b-a01f-cb72787e7a17"
+            ],
+            "components": [],
+            "linkedBoard": null
+        },
+        "a7ea1688-0e6c-484e-8912-66d69c351952": {
+            "theme": "default",
+            "title": "<p><span class=\"mention mention-component\" data-id=\"18566ff8-f4d6-4824-97c1-19482d2dd6c3\" data-type=\"component\">Wave<\/span><\/p>",
+            "assets": {
+                "cover": {
+                    "id": "550003ea-6024-4844-b183-52d1eaa70f29"
+                }
+            },
+            "content": "<p>Hi.<\/p><p><\/p>",
+            "outputs": [
+                "cc63483e-4d0f-40f9-80b0-c9fde242a427"
+            ],
+            "components": [
+                "18566ff8-f4d6-4824-97c1-19482d2dd6c3"
+            ],
+            "linkedBoard": null
+        },
+        "d0e791fc-e269-4f24-9b6e-ecb5d4928dc3": {
+            "theme": "blue",
+            "title": "<p>Stella Greetings<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0"
+                }
+            },
+            "content": "<p>Hello!<\/p><p>I'm Stella!<\/p><p>anim: Waving<\/p>",
+            "outputs": [
+                "3d5804db-f054-4c49-9b09-5b6073394290"
+            ],
+            "components": [],
+            "linkedBoard": null
+        },
+        "478f1c77-0648-4b84-a360-4b98808a1749": {
+            "theme": "default",
+            "title": null,
+            "content": "<p>hi i'm...    offset box 9-0.5)<\/p><p>Sally    play<\/p><p><\/p>",
+            "outputs": [],
+            "components": [],
+            "linkedBoard": null
+        }
+    },
+    "connections": {
+        "18c7ffdd-4091-4f4b-a01f-cb72787e7a17": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "f1b82be7-3aae-4b45-8986-32b4db9cdb34",
+            "targetid": "3ba63daf-6f96-4e13-8197-156cefe7e15d",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "6ce3856c-bb4c-47b0-af21-84eee3b2fc82": {
+            "type": "Bezier",
+            "label": "<p>Yay!<\/p>",
+            "theme": "default",
+            "sourceid": "3ba63daf-6f96-4e13-8197-156cefe7e15d",
+            "targetid": "27d25690-8f7e-464a-bbd8-d06f2db0def8",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "4656b614-b916-409b-b9df-58c736ab6caa": {
+            "type": "Bezier",
+            "label": "<p>I'm Happy<\/p>",
+            "theme": "default",
+            "sourceid": "2dc5a230-d4a8-4c6f-81d0-e1b864e01055",
+            "targetid": "830125c9-a81c-42f9-9ef2-c1d03b3f7278",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "f7296acc-ce9e-4188-8296-d97759a75ab4": {
+            "type": "Bezier",
+            "label": "<p>i'm tired<\/p>",
+            "theme": "default",
+            "sourceid": "adde39bf-b089-4279-b290-b9fd02843f75",
+            "targetid": "4b581703-7196-4357-b129-7c69d86a4e60",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "dd67b935-9a78-42c5-adb4-e2fb2f67a7b2": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "4b581703-7196-4357-b129-7c69d86a4e60",
+            "targetid": "67cd8cb9-4eac-4882-b9f5-6eef26c13aae",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "c50bb07c-bd2b-4e25-a349-7afef58a51c9": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "830125c9-a81c-42f9-9ef2-c1d03b3f7278",
+            "targetid": "67cd8cb9-4eac-4882-b9f5-6eef26c13aae",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "0ecc42a9-a504-408d-b5a7-06cadb9a7a6f": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "67cd8cb9-4eac-4882-b9f5-6eef26c13aae",
+            "targetid": "21decbf6-867e-489d-891c-d37def5f5511",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "9b9954e2-04cd-4a0b-b36e-c9b073a5bcef": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "21decbf6-867e-489d-891c-d37def5f5511",
+            "targetid": "04481d89-e590-4750-a340-c99b471890c0",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "00ef215b-148c-4292-bce4-8bccf47e55d1": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "04481d89-e590-4750-a340-c99b471890c0",
+            "targetid": "732d23f0-39e0-4f7b-9139-03abb0260012",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "3d5804db-f054-4c49-9b09-5b6073394290": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "d0e791fc-e269-4f24-9b6e-ecb5d4928dc3",
+            "targetid": "a7ea1688-0e6c-484e-8912-66d69c351952",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "cc63483e-4d0f-40f9-80b0-c9fde242a427": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "a7ea1688-0e6c-484e-8912-66d69c351952",
+            "targetid": "f1b82be7-3aae-4b45-8986-32b4db9cdb34",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "b46270f3-0632-4a08-b11a-93cd123b6d56": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "27d25690-8f7e-464a-bbd8-d06f2db0def8",
+            "targetid": "adde39bf-b089-4279-b290-b9fd02843f75",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "9ad35d60-f752-4ce3-9149-3762aa073d30": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "27d25690-8f7e-464a-bbd8-d06f2db0def8",
+            "targetid": "2dc5a230-d4a8-4c6f-81d0-e1b864e01055",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "5d3a41b1-7032-4299-b6da-5fe3a5aff398": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "830125c9-a81c-42f9-9ef2-c1d03b3f7278",
+            "targetid": "f5637ede-8aaf-4c40-91eb-dbabede0d646",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "e10f02f9-19a2-474e-9b9b-3f4437e0fd03": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "4b581703-7196-4357-b129-7c69d86a4e60",
+            "targetid": "f5637ede-8aaf-4c40-91eb-dbabede0d646",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "623f3685-d0b2-4eed-889b-4a14a56223f7": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "f5637ede-8aaf-4c40-91eb-dbabede0d646",
+            "targetid": "21decbf6-867e-489d-891c-d37def5f5511",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "82ae25bb-25c4-4405-9730-5ef76e3c9370": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "21decbf6-867e-489d-891c-d37def5f5511",
+            "targetid": "bdd91677-1a89-4519-a5d7-021dfc13b7eb",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "8a770480-a7d0-47bc-949b-0d5b2ab0964a": {
+            "type": "Bezier",
+            "label": null,
+            "theme": "default",
+            "sourceid": "bdd91677-1a89-4519-a5d7-021dfc13b7eb",
+            "targetid": "1aa1be96-7a6a-4287-b141-40f9f6810e6a",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "00e70d35-1f59-4f9f-af00-8e2b6265b1fe": {
+            "type": "Bezier",
+            "label": "<p>Wow<\/p>",
+            "theme": "default",
+            "sourceid": "3ba63daf-6f96-4e13-8197-156cefe7e15d",
+            "targetid": "27d25690-8f7e-464a-bbd8-d06f2db0def8",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "6a9918d3-dfe5-476f-acd5-41314cd798cf": {
+            "type": "Bezier",
+            "label": "<p>im sad<\/p>",
+            "theme": "default",
+            "sourceid": "adde39bf-b089-4279-b290-b9fd02843f75",
+            "targetid": "4b581703-7196-4357-b129-7c69d86a4e60",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "10b4e097-6e9e-4a98-b453-0e400b6cf150": {
+            "type": "Bezier",
+            "label": "<p>im angry<\/p>",
+            "theme": "default",
+            "sourceid": "adde39bf-b089-4279-b290-b9fd02843f75",
+            "targetid": "4b581703-7196-4357-b129-7c69d86a4e60",
+            "sourceType": "elements",
+            "targetType": "elements"
+        }
+    },
+    "jumpers": {},
+    "assets": {
+        "009fd165-d470-4bd5-928d-8a0af2e8e20b": {
+            "name": "Sally (Custom).png",
+            "type": "image"
+        },
+        "0aa61ddb-96b5-4845-afdc-133434df4e4f": {
+            "name": "student-wave.png",
+            "type": "image"
+        },
+        "0d10082a-4b72-4fde-a869-35457ab03bb7": {
+            "name": "TomAndKim (Custom).png",
+            "type": "image"
+        },
+        "25dd664d-61fa-44e9-accb-5e5a9902ff03": {
+            "name": "banana.png",
+            "type": "image"
+        },
+        "2bb53540-0892-4713-9ec3-b48066ddaa45": {
+            "name": "flower.png",
+            "type": "image"
+        },
+        "3484cf18-da0c-4e0e-a7ce-2ae2e1f202e4": {
+            "name": "black flower.png",
+            "type": "image"
+        },
+        "350b24ea-65d6-4a4d-816e-fd5f90982d90": {
+            "name": "Heart_Icon.png",
+            "type": "image"
+        },
+        "418e3869-e783-4561-93ee-7f442b422704": {
+            "name": "Rusty (Custom).png",
+            "type": "image"
+        },
+        "4326e3de-3202-4824-882d-2f8589b65874": {
+            "name": "bart.png",
+            "type": "image"
+        },
+        "43582e1b-3d7c-4ce3-aabe-437447ce7a6f": {
+            "name": "Sad_Icon.png",
+            "type": "image"
+        },
+        "466560a7-82bd-4fbd-8915-425816d1623d": {
+            "name": "Bud (Custom).png",
+            "type": "image"
+        },
+        "4b896ed8-762a-4d1d-bbb7-dbf96a195a37": {
+            "name": "purple flower.png",
+            "type": "image"
+        },
+        "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0": {
+            "name": "Stella (Custom).png",
+            "type": "image"
+        },
+        "550003ea-6024-4844-b183-52d1eaa70f29": {
+            "name": "play-free-play-char.png",
+            "type": "image"
+        },
+        "6383f358-411f-4af5-8686-8e5a1240c57a": {
+            "name": "red flower.png",
+            "type": "image"
+        },
+        "647d0495-341f-42b2-8788-b47dace22bf8": {
+            "root": true,
+            "children": [
+                "e1af9083-2482-4363-a389-b7cf8357773b",
+                "25dd664d-61fa-44e9-accb-5e5a9902ff03",
+                "d9c2f1b3-c46b-4d54-9458-04379109463c",
+                "c8e7cadc-2463-4c6f-9730-4de14ec5ef8b",
+                "4326e3de-3202-4824-882d-2f8589b65874",
+                "7b0a89e8-2e21-4e00-b967-2d726996c3da",
+                "6383f358-411f-4af5-8686-8e5a1240c57a",
+                "2bb53540-0892-4713-9ec3-b48066ddaa45",
+                "4b896ed8-762a-4d1d-bbb7-dbf96a195a37",
+                "d5526de1-6df6-456e-8517-ebeb63938a06",
+                "67f1fed1-ac46-460a-b403-e8f326eb2fff",
+                "7f665d1d-d8dc-4b57-bd95-6fb25d5107d5",
+                "be2b41fa-66a9-4852-9208-0812a2d35736",
+                "550003ea-6024-4844-b183-52d1eaa70f29",
+                "0aa61ddb-96b5-4845-afdc-133434df4e4f",
+                "a5d2f3f7-d845-4f89-a222-9b7b4376ad35",
+                "0d10082a-4b72-4fde-a869-35457ab03bb7",
+                "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0",
+                "009fd165-d470-4bd5-928d-8a0af2e8e20b",
+                "418e3869-e783-4561-93ee-7f442b422704",
+                "7f3a0a41-18ba-4d24-86d9-06b29d28a1c5",
+                "466560a7-82bd-4fbd-8915-425816d1623d",
+                "bd18e70e-af14-451c-8628-26320386d49f",
+                "3484cf18-da0c-4e0e-a7ce-2ae2e1f202e4",
+                "d1406279-d5c8-4b10-925d-1ef33473e1ee",
+                "df3c75e7-94a3-4365-bdfb-64f009822203",
+                "922333be-0b3d-482e-9364-a6c76c66ebb1",
+                "350b24ea-65d6-4a4d-816e-fd5f90982d90",
+                "e4ed33f0-4f07-4e72-acc5-47af325a9cb9",
+                "a1cc821c-a688-434f-8ea1-933982416953",
+                "9fadd634-9068-44c9-aaad-c7035f4fc29a",
+                "43582e1b-3d7c-4ce3-aabe-437447ce7a6f",
+                "d34838db-fca5-4ac0-a55b-d6f4a6832c77",
+                "cd0cf010-5b50-4b9a-a4ea-67e0629f77b1",
+                "dc6f52b5-d2a4-42a9-bc0a-907cf3212704"
+            ]
+        },
+        "67f1fed1-ac46-460a-b403-e8f326eb2fff": {
+            "name": "blue flower.png",
+            "type": "image"
+        },
+        "7b0a89e8-2e21-4e00-b967-2d726996c3da": {
+            "name": "map-mushroom2.png",
+            "type": "image"
+        },
+        "7f3a0a41-18ba-4d24-86d9-06b29d28a1c5": {
+            "name": "Olly (Custom).png",
+            "type": "image"
+        },
+        "7f665d1d-d8dc-4b57-bd95-6fb25d5107d5": {
+            "name": "button-close-up2.png",
+            "type": "image"
+        },
+        "922333be-0b3d-482e-9364-a6c76c66ebb1": {
+            "name": "Angry_Icon.png",
+            "type": "image"
+        },
+        "9fadd634-9068-44c9-aaad-c7035f4fc29a": {
+            "name": "Like_Icon.png",
+            "type": "image"
+        },
+        "a1cc821c-a688-434f-8ea1-933982416953": {
+            "name": "Laughing_Icon.png",
+            "type": "image"
+        },
+        "a5d2f3f7-d845-4f89-a222-9b7b4376ad35": {
+            "name": "MingAndMei.png",
+            "type": "image"
+        },
+        "bd18e70e-af14-451c-8628-26320386d49f": {
+            "name": "Milton (Custom).png",
+            "type": "image"
+        },
+        "be2b41fa-66a9-4852-9208-0812a2d35736": {
+            "name": "button-yes-up.png",
+            "type": "image"
+        },
+        "c8e7cadc-2463-4c6f-9730-4de14ec5ef8b": {
+            "name": "icon-fish.png",
+            "type": "image"
+        },
+        "cd0cf010-5b50-4b9a-a4ea-67e0629f77b1": {
+            "name": "Surprised_Icon.png",
+            "type": "image"
+        },
+        "d1406279-d5c8-4b10-925d-1ef33473e1ee": {
+            "name": "brown flower.png",
+            "type": "image"
+        },
+        "d34838db-fca5-4ac0-a55b-d6f4a6832c77": {
+            "name": "Sleepy_Icon.png",
+            "type": "image"
+        },
+        "d5526de1-6df6-456e-8517-ebeb63938a06": {
+            "name": "grey flower.png",
+            "type": "image"
+        },
+        "d9c2f1b3-c46b-4d54-9458-04379109463c": {
+            "name": "mango.png",
+            "type": "image"
+        },
+        "dc6f52b5-d2a4-42a9-bc0a-907cf3212704": {
+            "name": "hand.png",
+            "type": "image"
+        },
+        "df3c75e7-94a3-4365-bdfb-64f009822203": {
+            "name": "Happy_Icon.png",
+            "type": "image"
+        },
+        "e1af9083-2482-4363-a389-b7cf8357773b": {
+            "name": "orange.png",
+            "type": "image"
+        },
+        "e4ed33f0-4f07-4e72-acc5-47af325a9cb9": {
+            "name": "Hungry_Icon.png",
+            "type": "image"
+        }
+    },
+    "branches": {},
+    "conditions": {},
+    "variables": {
+        "d0452892-7d0c-4fe8-ae7e-f5cb57d7e2e8": {
+            "root": true,
+            "children": []
+        }
+    },
+    "components": {
+        "06449d84-2f86-4e43-849d-5f8e36c222f2": {
+            "name": "Like",
+            "assets": {
+                "cover": {
+                    "id": "9fadd634-9068-44c9-aaad-c7035f4fc29a"
+                }
+            },
+            "attributes": []
+        },
+        "18566ff8-f4d6-4824-97c1-19482d2dd6c3": {
+            "name": "Wave",
+            "assets": {
+                "cover": {
+                    "id": "dc6f52b5-d2a4-42a9-bc0a-907cf3212704"
+                }
+            },
+            "attributes": []
+        },
+        "1c4831a6-f609-4ea5-b0dc-8f97978de785": {
+            "name": "Reacts",
+            "children": [
+                "18566ff8-f4d6-4824-97c1-19482d2dd6c3",
+                "ee380b6a-bd36-49dc-b5c6-a643090383ae",
+                "8a23452d-902c-4099-a398-29f573f6905a",
+                "2dd4139f-5fbe-4389-b7f3-ce559abcc976",
+                "b9165fb4-0d38-441f-9a1b-db78fefa5ed0",
+                "80ac5ec0-0299-4ebd-b8e8-cf68fe6acab4",
+                "df3e55bf-b838-46d6-aad4-d4575bc9be99",
+                "2a3f1033-bb78-4c68-9076-697f16577a28"
+            ]
+        },
+        "20322517-7c43-4485-960b-ca0313dc3550": {
+            "name": "PinkFlower",
+            "assets": {
+                "cover": {
+                    "id": "2bb53540-0892-4713-9ec3-b48066ddaa45"
+                }
+            },
+            "attributes": []
+        },
+        "2295d197-6c53-4644-a6b4-eaa22484505d": {
+            "name": "RedFlower",
+            "assets": {
+                "cover": {
+                    "id": "6383f358-411f-4af5-8686-8e5a1240c57a"
+                }
+            },
+            "attributes": []
+        },
+        "2a3f1033-bb78-4c68-9076-697f16577a28": {
+            "name": "Yes",
+            "assets": {
+                "cover": {
+                    "id": "be2b41fa-66a9-4852-9208-0812a2d35736"
+                }
+            },
+            "attributes": []
+        },
+        "2dd4139f-5fbe-4389-b7f3-ce559abcc976": {
+            "name": "Fruits",
+            "children": [
+                "d4c56665-354b-4e0d-a883-313574ceb407",
+                "d44cdcb2-f5ee-4ddd-bf74-e5f3dda526e3",
+                "4d122ad2-66d9-4236-a931-f1b0af38e71d"
+            ]
+        },
+        "37085f1e-1ec8-4dbc-b246-e6f5612eda6e": {
+            "name": "Stella",
+            "assets": {
+                "cover": {
+                    "id": "53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0"
+                }
+            },
+            "attributes": []
+        },
+        "4a57b620-a177-4e22-816e-6d9e3ce0c231": {
+            "name": "Tom And Kim",
+            "assets": {
+                "cover": {
+                    "id": "0d10082a-4b72-4fde-a869-35457ab03bb7"
+                }
+            },
+            "attributes": [
+                "4d5aa1b5-333c-4de5-8729-378e6ed431eb"
+            ]
+        },
+        "4d122ad2-66d9-4236-a931-f1b0af38e71d": {
+            "name": "Mango",
+            "assets": {
+                "cover": {
+                    "id": "d9c2f1b3-c46b-4d54-9458-04379109463c"
+                }
+            },
+            "attributes": []
+        },
+        "52e87231-4320-4f1d-b00e-866588c90dd7": {
+            "name": "Student",
+            "assets": {
+                "cover": {
+                    "id": "550003ea-6024-4844-b183-52d1eaa70f29"
+                }
+            },
+            "attributes": []
+        },
+        "54cd26e6-abef-41a3-96c4-5f2643be82e0": {
+            "name": "Heart",
+            "assets": {
+                "cover": {
+                    "id": "350b24ea-65d6-4a4d-816e-fd5f90982d90"
+                }
+            },
+            "attributes": []
+        },
+        "58ebb136-8c7c-4ac6-b6c5-bceb5969cad6": {
+            "name": "Bud",
+            "assets": {
+                "cover": {
+                    "id": "466560a7-82bd-4fbd-8915-425816d1623d"
+                }
+            },
+            "attributes": [
+                "8ea81071-c453-4f4d-be17-042ec123fa3e",
+                "791fb494-abfb-4973-aa08-715b85846653"
+            ]
+        },
+        "65005bda-15d0-41c5-867f-68c118829f08": {
+            "name": "Root",
+            "root": true,
+            "children": [
+                "1c4831a6-f609-4ea5-b0dc-8f97978de785",
+                "68942096-84bc-47df-a8a3-9fc9ae923db9",
+                "7646d65a-38ab-467e-be4b-0e1092e9eb6a"
+            ]
+        },
+        "68942096-84bc-47df-a8a3-9fc9ae923db9": {
+            "name": "Characters",
+            "children": [
+                "9f5009ea-7bbd-4719-9eae-9d8829385500",
+                "52e87231-4320-4f1d-b00e-866588c90dd7",
+                "76d3bddd-e333-4a8a-a74a-fae67d4abced",
+                "4a57b620-a177-4e22-816e-6d9e3ce0c231",
+                "37085f1e-1ec8-4dbc-b246-e6f5612eda6e",
+                "6f0a20ae-95a7-409d-a32a-ee7e0da96799",
+                "92bdb7b9-c5be-45a3-b615-52f9383fc6a1",
+                "87bea19f-9e45-40e1-a7b5-c690b9ae65c6",
+                "58ebb136-8c7c-4ac6-b6c5-bceb5969cad6",
+                "fce0200c-a075-4d59-9be9-8c62de31b583"
+            ]
+        },
+        "69121a0c-d18f-4084-885c-3448de55f043": {
+            "name": "Sad",
+            "assets": {
+                "cover": {
+                    "id": "43582e1b-3d7c-4ce3-aabe-437447ce7a6f"
+                }
+            },
+            "attributes": []
+        },
+        "6f0a20ae-95a7-409d-a32a-ee7e0da96799": {
+            "name": "Sally",
+            "assets": {
+                "cover": {
+                    "id": "009fd165-d470-4bd5-928d-8a0af2e8e20b"
+                }
+            },
+            "attributes": []
+        },
+        "6f8cd3cf-e0e3-4d8b-b895-045906ed49d5": {
+            "name": "Sleepy",
+            "assets": {
+                "cover": {
+                    "id": "d34838db-fca5-4ac0-a55b-d6f4a6832c77"
+                }
+            },
+            "attributes": []
+        },
+        "7569a10c-dcd9-4f92-89ca-590135f5864a": {
+            "name": "Laugh",
+            "assets": {
+                "cover": {
+                    "id": "a1cc821c-a688-434f-8ea1-933982416953"
+                }
+            },
+            "attributes": []
+        },
+        "7646d65a-38ab-467e-be4b-0e1092e9eb6a": {
+            "name": "Untitled Component",
+            "attributes": []
+        },
+        "76d3bddd-e333-4a8a-a74a-fae67d4abced": {
+            "name": "Max and Mei",
+            "assets": {
+                "cover": {
+                    "id": "a5d2f3f7-d845-4f89-a222-9b7b4376ad35"
+                }
+            },
+            "attributes": []
+        },
+        "80ac5ec0-0299-4ebd-b8e8-cf68fe6acab4": {
+            "name": "Flowers",
+            "children": [
+                "caa6d78c-800e-4b2a-bbb5-b3f38899ef57",
+                "8d4b981e-cc8c-4e0d-bd78-148b40703ee6",
+                "fc01577c-076c-4bc0-9d3b-f395a37d673a",
+                "ff934e41-e980-4b96-98d1-96e88c175492",
+                "20322517-7c43-4485-960b-ca0313dc3550",
+                "2295d197-6c53-4644-a6b4-eaa22484505d",
+                "e35c4442-e2d7-4230-942d-d916f5820d47"
+            ]
+        },
+        "87bea19f-9e45-40e1-a7b5-c690b9ae65c6": {
+            "name": "Olly",
+            "assets": {
+                "cover": {
+                    "id": "7f3a0a41-18ba-4d24-86d9-06b29d28a1c5"
+                }
+            },
+            "attributes": []
+        },
+        "8a23452d-902c-4099-a398-29f573f6905a": {
+            "name": "Mushroom",
+            "assets": {
+                "cover": {
+                    "id": "7b0a89e8-2e21-4e00-b967-2d726996c3da"
+                }
+            },
+            "attributes": []
+        },
+        "8d4b981e-cc8c-4e0d-bd78-148b40703ee6": {
+            "name": "BlackFlower",
+            "assets": {
+                "cover": {
+                    "id": "3484cf18-da0c-4e0e-a7ce-2ae2e1f202e4"
+                }
+            },
+            "attributes": []
+        },
+        "92bdb7b9-c5be-45a3-b615-52f9383fc6a1": {
+            "name": "Rusty",
+            "assets": {
+                "cover": {
+                    "id": "418e3869-e783-4561-93ee-7f442b422704"
+                }
+            },
+            "attributes": []
+        },
+        "97c70a3b-0e17-4f11-9f00-5d722bd87173": {
+            "name": "Suprise",
+            "assets": {
+                "cover": {
+                    "id": "cd0cf010-5b50-4b9a-a4ea-67e0629f77b1"
+                }
+            },
+            "attributes": []
+        },
+        "989691e2-c236-4adc-9bb6-cdff0246366e": {
+            "name": "Happy",
+            "assets": {
+                "cover": {
+                    "id": "df3c75e7-94a3-4365-bdfb-64f009822203"
+                }
+            },
+            "attributes": []
+        },
+        "9f5009ea-7bbd-4719-9eae-9d8829385500": {
+            "name": "Bart",
+            "assets": {
+                "cover": {
+                    "id": "4326e3de-3202-4824-882d-2f8589b65874"
+                }
+            },
+            "attributes": []
+        },
+        "b9165fb4-0d38-441f-9a1b-db78fefa5ed0": {
+            "name": "Emoj",
+            "children": [
+                "6f8cd3cf-e0e3-4d8b-b895-045906ed49d5",
+                "e4d3aedd-c762-4814-a4e1-6c9b9e0b7454",
+                "54cd26e6-abef-41a3-96c4-5f2643be82e0",
+                "69121a0c-d18f-4084-885c-3448de55f043",
+                "cf8b5e17-1226-46dd-9fc9-05540b978b64",
+                "06449d84-2f86-4e43-849d-5f8e36c222f2",
+                "7569a10c-dcd9-4f92-89ca-590135f5864a",
+                "97c70a3b-0e17-4f11-9f00-5d722bd87173",
+                "989691e2-c236-4adc-9bb6-cdff0246366e"
+            ]
+        },
+        "caa6d78c-800e-4b2a-bbb5-b3f38899ef57": {
+            "name": "BrownFlower",
+            "assets": {
+                "cover": {
+                    "id": "d1406279-d5c8-4b10-925d-1ef33473e1ee"
+                }
+            },
+            "attributes": []
+        },
+        "cf8b5e17-1226-46dd-9fc9-05540b978b64": {
+            "name": "Angry",
+            "assets": {
+                "cover": {
+                    "id": "922333be-0b3d-482e-9364-a6c76c66ebb1"
+                }
+            },
+            "attributes": []
+        },
+        "d44cdcb2-f5ee-4ddd-bf74-e5f3dda526e3": {
+            "name": "Banana",
+            "assets": {
+                "cover": {
+                    "id": "25dd664d-61fa-44e9-accb-5e5a9902ff03"
+                }
+            },
+            "attributes": []
+        },
+        "d4c56665-354b-4e0d-a883-313574ceb407": {
+            "name": "Orange",
+            "assets": {
+                "cover": {
+                    "id": "e1af9083-2482-4363-a389-b7cf8357773b"
+                }
+            },
+            "attributes": []
+        },
+        "df3e55bf-b838-46d6-aad4-d4575bc9be99": {
+            "name": "No",
+            "assets": {
+                "cover": {
+                    "id": "7f665d1d-d8dc-4b57-bd95-6fb25d5107d5"
+                }
+            },
+            "attributes": []
+        },
+        "e35c4442-e2d7-4230-942d-d916f5820d47": {
+            "name": "BlueFlower",
+            "assets": {
+                "cover": {
+                    "id": "67f1fed1-ac46-460a-b403-e8f326eb2fff"
+                }
+            },
+            "attributes": []
+        },
+        "e4d3aedd-c762-4814-a4e1-6c9b9e0b7454": {
+            "name": "Hungry",
+            "assets": {
+                "cover": {
+                    "id": "e4ed33f0-4f07-4e72-acc5-47af325a9cb9"
+                }
+            },
+            "attributes": []
+        },
+        "ee380b6a-bd36-49dc-b5c6-a643090383ae": {
+            "name": "Fish",
+            "assets": {
+                "cover": {
+                    "id": "c8e7cadc-2463-4c6f-9730-4de14ec5ef8b"
+                }
+            },
+            "attributes": []
+        },
+        "fc01577c-076c-4bc0-9d3b-f395a37d673a": {
+            "name": "GreyFlower",
+            "assets": {
+                "cover": {
+                    "id": "d5526de1-6df6-456e-8517-ebeb63938a06"
+                }
+            },
+            "attributes": []
+        },
+        "fce0200c-a075-4d59-9be9-8c62de31b583": {
+            "name": "Milton",
+            "assets": {
+                "cover": {
+                    "id": "bd18e70e-af14-451c-8628-26320386d49f"
+                }
+            },
+            "attributes": [
+                "f50c334e-0f6b-43a7-b86e-c61027e97dc0"
+            ]
+        },
+        "ff934e41-e980-4b96-98d1-96e88c175492": {
+            "name": "PurpleFlower",
+            "assets": {
+                "cover": {
+                    "id": "4b896ed8-762a-4d1d-bbb7-dbf96a195a37"
+                }
+            },
+            "attributes": []
+        }
+    },
+    "attributes": {
+        "4d5aa1b5-333c-4de5-8729-378e6ed431eb": {
+            "name": null,
+            "value": {
+                "data": null,
+                "type": "string"
+            }
+        },
+        "791fb494-abfb-4973-aa08-715b85846653": {
+            "name": null,
+            "value": {
+                "data": "likes fruit<p><br><\/p>",
+                "type": "string"
+            }
+        },
+        "8ea81071-c453-4f4d-be17-042ec123fa3e": {
+            "name": null,
+            "value": {
+                "data": "is a dog<p><br><\/p>",
+                "type": "string"
+            }
+        },
+        "f50c334e-0f6b-43a7-b86e-c61027e97dc0": {
+            "name": "Milton Says",
+            "value": {
+                "data": "<br>",
+                "type": "string"
+            }
+        }
+    },
+    "name": "RoyalABC",
+    "cover": {
+        "file": "1595815388_5f1e35dc58f40.png",
+        "type": "cover-image"
+    }
+}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b749214ae53a0f48b90ee4aaa6c4603, type: 3}
+  m_Name: fce0200c-a075-4d59-9be9-8c62de31b583
+  m_EditorClassIdentifier: 
+  id: fce0200c-a075-4d59-9be9-8c62de31b583
+  realName: Milton
+  attributeIDs:
+  - f50c334e-0f6b-43a7-b86e-c61027e97dc0
+  coverID: bd18e70e-af14-451c-8628-26320386d49f

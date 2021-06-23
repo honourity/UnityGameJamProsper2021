@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b749214ae53a0f48b90ee4aaa6c4603, type: 3}
+  m_Name: 4a57b620-a177-4e22-816e-6d9e3ce0c231
+  m_EditorClassIdentifier: 
+  id: 4a57b620-a177-4e22-816e-6d9e3ce0c231
+  realName: Tom And Kim
+  attributeIDs:
+  - 4d5aa1b5-333c-4de5-8729-378e6ed431eb
+  coverID: 0d10082a-4b72-4fde-a869-35457ab03bb7
