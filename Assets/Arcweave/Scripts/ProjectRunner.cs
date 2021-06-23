@@ -77,7 +77,7 @@ namespace AW
 			onElementTriggered = callback;
 
 			// Play root node of active board
-			if (onElementTriggered != null)
+			if (onElementTriggered != null && active.current != null)
 				onElementTriggered(active.current);
 		}
 

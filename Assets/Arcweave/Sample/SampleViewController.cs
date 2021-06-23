@@ -30,12 +30,12 @@ public class SampleViewController : MonoBehaviour
     public ComponentView componentView;
 
     // Link to the sample runner
-    private Sample sample;
+    private ArcweaveManager sample;
 
     /*
      * Bind to given sample.
      */
-    public void Bind(Sample sample)
+    public void Bind(ArcweaveManager sample)
     {
         this.sample = sample;
     }
@@ -156,7 +156,7 @@ public class SampleViewController : MonoBehaviour
 
                 if (string.IsNullOrEmpty(connLabel) || connLabel == "null") {
                     // Fetch label from out node
-                    Element e = sample.project.GetElement(awElement.outConnections[i].targetElementId);
+                    Element e = sample.Project.GetElement(awElement.outConnections[i].targetElementId);
                     label.text = e.GetActionLabel();
                 } else {
                     const int maxDisplayChar = 40;

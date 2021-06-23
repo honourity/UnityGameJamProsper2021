@@ -4,13 +4,20 @@ using UnityEngine;
 
 using AW;
 
-public class Sample : MonoBehaviour {
+public class ArcweaveManager : MonoBehaviour {
+    public static ArcweaveManager Instance
+    {
+        get { return _instance = _instance ?? FindObjectOfType<ArcweaveManager>() ?? new ArcweaveManager { }; }
+    }
+    private static ArcweaveManager _instance;
+
+
     // The view of this
     public SampleViewController viewController;
     public CanvasGroup loader;
 
     // The project
-    public Project project { get; protected set; }
+    public Project Project { get; protected set; }
 
     // The test board walker
 	public ProjectRunner runner { get; protected set; }
@@ -41,15 +48,15 @@ public class Sample : MonoBehaviour {
     {
         ResourceRequest rr = Resources.LoadAsync("Arcweave/Project");
         yield return rr;
-        project = rr.asset as Project;
+        Project = rr.asset as Project;
 
-        if (project == null) {
+        if (Project == null) {
             Debug.LogWarning("No project found. Please use the Arcweave Utility to import a project.");
             yield break;
         }
 
         // Create the walker
-		runner = new ProjectRunner(project, this);
+		runner = new ProjectRunner(Project, this);
 		runner.Play(OnElementTriggered);
 
         // Destroy the Loader
@@ -81,7 +88,7 @@ public class Sample : MonoBehaviour {
 	 */
 	public void Restart() {
 		// Create a fresh new runner
-		runner = new ProjectRunner(project, this);
+		runner = new ProjectRunner(Project, this);
 		runner.Play(OnElementTriggered);
 	}
 } // class Sample

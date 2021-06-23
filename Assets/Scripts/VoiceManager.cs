@@ -6,6 +6,7 @@ using UnityEngine;
 using Newtonsoft.Json;
 using UnityEngine.Networking;
 using AW;
+using System.Linq;
 
 public class VoiceManager : MonoBehaviour
 {
@@ -47,13 +48,36 @@ public class VoiceManager : MonoBehaviour
 
 	private IEnumerator SpeakCoroutine(Element source)
     {
+		//default fallback voice
+		var voice = "en-US-Wavenet-A";
+
+		var sourceComponentId = source.components.FirstOrDefault().id;
+		var component = ArcweaveManager.Instance.Project.components.FirstOrDefault(c => c.id == sourceComponentId);
+
+		if (component.realName == "Milton")
+        {
+			voice = "en-GB-Wavenet-B";
+		}
+		else if (component.realName == "Stella")
+        {
+			voice = "en-US-Wavenet-F";
+		}
+		else if (component.realName == "Sally")
+		{
+			voice = "en-GB-Wavenet-C";
+		}
+		else if (component.realName == "Rusty")
+		{
+			voice = "en-GB-Standard-B";
+		}
+
 		//todo - look at element
 		// decide voice type
 		var text = source.content;
 
 		if (!string.IsNullOrEmpty(text))
         {
-			var voice = "en-US-Wavenet-A";
+			
 
 			var data = "{ \"audioConfig\": { \"audioEncoding\": \"LINEAR16\", \"pitch\": 0, \"speakingRate\": 1 }, \"input\": { \"text\": \"" + text + "\" }, \"voice\": { \"languageCode\": \"" + voice.Substring(0, 5) + "\", \"name\": \"" + voice + "\" } }";
 
