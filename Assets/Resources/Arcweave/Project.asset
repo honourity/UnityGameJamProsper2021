@@ -17,147 +17,165 @@ MonoBehaviour:
   - id: 009fd165-d470-4bd5-928d-8a0af2e8e20b
     name: Sally (Custom).png
     type: 0
-    sprite: {fileID: 21300000, guid: 5c6a2b619080f2040b53bcccd13d0874, type: 3}
+    sprite: {fileID: 21300000, guid: ea48b1ff9d083ff4d8de34e6f0189ab4, type: 3}
   - id: 0aa61ddb-96b5-4845-afdc-133434df4e4f
     name: student-wave.png
     type: 0
-    sprite: {fileID: 21300000, guid: f7a6de079cec18e4e90759851f86176d, type: 3}
+    sprite: {fileID: 21300000, guid: 3e8d5144a5dcbd24e92fd4b3d3f6240e, type: 3}
   - id: 0d10082a-4b72-4fde-a869-35457ab03bb7
     name: TomAndKim (Custom).png
     type: 0
-    sprite: {fileID: 21300000, guid: 310d295f3ab253841ac45441b179e4cd, type: 3}
+    sprite: {fileID: 21300000, guid: a33cd24ba09b52d45b6eedcad5b78277, type: 3}
+  - id: 234f5153-5eb5-4736-9fa2-6fdbf0d90c51
+    name: Classroom2.jpeg
+    type: 0
+    sprite: {fileID: 21300000, guid: 9af3c1ff0ce5238409a6f600549327cf, type: 3}
   - id: 25dd664d-61fa-44e9-accb-5e5a9902ff03
     name: banana.png
     type: 0
-    sprite: {fileID: 21300000, guid: 2e355b0b59c3f5845a5da90164b1120e, type: 3}
+    sprite: {fileID: 21300000, guid: 45442f49999d53e46bdaa7d52ba78223, type: 3}
   - id: 2bb53540-0892-4713-9ec3-b48066ddaa45
     name: flower.png
     type: 0
-    sprite: {fileID: 21300000, guid: 29e112197a3a97b42aec4ddf7dc47f8c, type: 3}
+    sprite: {fileID: 21300000, guid: 3bafe3d6b54fc1d4f94757f5da9302c4, type: 3}
   - id: 3484cf18-da0c-4e0e-a7ce-2ae2e1f202e4
     name: black flower.png
     type: 0
-    sprite: {fileID: 21300000, guid: 9381569cff63f9e49aabefc1dcbbe34a, type: 3}
+    sprite: {fileID: 21300000, guid: af0808434133ae44aa4b0d1ccffb7ccf, type: 3}
   - id: 350b24ea-65d6-4a4d-816e-fd5f90982d90
     name: Heart_Icon.png
     type: 0
-    sprite: {fileID: 21300000, guid: 954b6f2ae76c3b242a649ba0111c533e, type: 3}
+    sprite: {fileID: 21300000, guid: f9f3f0e7d9d0e5147be70af6763b2b97, type: 3}
   - id: 418e3869-e783-4561-93ee-7f442b422704
     name: Rusty (Custom).png
     type: 0
-    sprite: {fileID: 21300000, guid: 4f81e160de8d35d43a78d3386faed9c8, type: 3}
+    sprite: {fileID: 21300000, guid: ff896f10e9f14754ba807d317692ad52, type: 3}
+  - id: 41ddb366-ef33-43f4-9a82-335000ee957a
+    name: sam1.png
+    type: 0
+    sprite: {fileID: 21300000, guid: 76a67f8d56545374bad7be8cffcb53b9, type: 3}
   - id: 4326e3de-3202-4824-882d-2f8589b65874
     name: bart.png
     type: 0
-    sprite: {fileID: 21300000, guid: bcec9ae516a566b42ad1d1148cca45f9, type: 3}
+    sprite: {fileID: 21300000, guid: 11c5abbdb356e7347b4a9cbf01a00e35, type: 3}
   - id: 43582e1b-3d7c-4ce3-aabe-437447ce7a6f
     name: Sad_Icon.png
     type: 0
-    sprite: {fileID: 21300000, guid: 6846bd84f2ca96044bd5e3dc0bcc0aa1, type: 3}
+    sprite: {fileID: 21300000, guid: bc21c65247c50ac4d9f5794eae761f99, type: 3}
   - id: 466560a7-82bd-4fbd-8915-425816d1623d
     name: Bud (Custom).png
     type: 0
-    sprite: {fileID: 21300000, guid: 3f262215df4a91e489cd5ebfea6544c3, type: 3}
+    sprite: {fileID: 21300000, guid: 25125a4a642894048a353f9c7e4ee79c, type: 3}
   - id: 4b896ed8-762a-4d1d-bbb7-dbf96a195a37
     name: purple flower.png
     type: 0
-    sprite: {fileID: 21300000, guid: f618dc862e605c44da28c485025528cd, type: 3}
+    sprite: {fileID: 21300000, guid: d49f4c7bdb3414e4b99526b6df31293a, type: 3}
   - id: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0
     name: Stella (Custom).png
     type: 0
-    sprite: {fileID: 21300000, guid: 23737f899a5b1c241b1e1566cb99716b, type: 3}
+    sprite: {fileID: 21300000, guid: 4d63dd4825998574680150747e78cc2b, type: 3}
   - id: 550003ea-6024-4844-b183-52d1eaa70f29
     name: play-free-play-char.png
     type: 0
-    sprite: {fileID: 21300000, guid: 4c6e191a2dba44d43b03620efa6695a8, type: 3}
+    sprite: {fileID: 21300000, guid: 5feeb788c1b8f10429c9fd6c5a3d8e34, type: 3}
   - id: 6383f358-411f-4af5-8686-8e5a1240c57a
     name: red flower.png
     type: 0
-    sprite: {fileID: 21300000, guid: b2eb9f6294e65754c81f2f5dd16dc5a8, type: 3}
+    sprite: {fileID: 21300000, guid: a2ea0ef5f534983448f646d6f106b0b3, type: 3}
   - id: 67f1fed1-ac46-460a-b403-e8f326eb2fff
     name: blue flower.png
     type: 0
-    sprite: {fileID: 21300000, guid: a708938771d1ec040992c28645e7dfd6, type: 3}
+    sprite: {fileID: 21300000, guid: 3b0d5780ce1966442a131c19e62d5490, type: 3}
   - id: 7b0a89e8-2e21-4e00-b967-2d726996c3da
     name: map-mushroom2.png
     type: 0
-    sprite: {fileID: 21300000, guid: 384b4f2e8cd3391489986cce6e18afdb, type: 3}
+    sprite: {fileID: 21300000, guid: d55150742e48cbd4ea083403df6eff52, type: 3}
   - id: 7f3a0a41-18ba-4d24-86d9-06b29d28a1c5
     name: Olly (Custom).png
     type: 0
-    sprite: {fileID: 21300000, guid: 5b7c05ffbc9331a49becb546db52e49e, type: 3}
+    sprite: {fileID: 21300000, guid: bbf4ea26a0fa9c34d9d88a17e717d0b1, type: 3}
   - id: 7f665d1d-d8dc-4b57-bd95-6fb25d5107d5
     name: button-close-up2.png
     type: 0
-    sprite: {fileID: 21300000, guid: c55fc61023c25e64fb6f8ff23113e635, type: 3}
+    sprite: {fileID: 21300000, guid: 93b23153997bc15408b4fb621d879b09, type: 3}
   - id: 922333be-0b3d-482e-9364-a6c76c66ebb1
     name: Angry_Icon.png
     type: 0
-    sprite: {fileID: 21300000, guid: 26611f990da547f43a378a45cdf7ec97, type: 3}
+    sprite: {fileID: 21300000, guid: c1474e5b32278614cb70a6ae175232cb, type: 3}
   - id: 9fadd634-9068-44c9-aaad-c7035f4fc29a
     name: Like_Icon.png
     type: 0
-    sprite: {fileID: 21300000, guid: 4ad27ee86a1e21445bf3bdfbe6db38cd, type: 3}
+    sprite: {fileID: 21300000, guid: fcb6814499d826048aab161855516edb, type: 3}
   - id: a1cc821c-a688-434f-8ea1-933982416953
     name: Laughing_Icon.png
     type: 0
-    sprite: {fileID: 21300000, guid: 33c04b691b9126148acf770c71d47221, type: 3}
+    sprite: {fileID: 21300000, guid: 69ace0caba13d9a46bacd50bd0c79556, type: 3}
   - id: a5d2f3f7-d845-4f89-a222-9b7b4376ad35
     name: MingAndMei.png
     type: 0
-    sprite: {fileID: 21300000, guid: 441d43dcfcbd2114f9f190c240bc3f7f, type: 3}
+    sprite: {fileID: 21300000, guid: da4fd2e5c7121094a80d910a722b5bc5, type: 3}
   - id: bd18e70e-af14-451c-8628-26320386d49f
     name: Milton (Custom).png
     type: 0
-    sprite: {fileID: 21300000, guid: 65f2c904f363cd24e8ac2814b7d531b5, type: 3}
+    sprite: {fileID: 21300000, guid: 0c3af1d69a4fcab43bc96e0f246d8308, type: 3}
   - id: be2b41fa-66a9-4852-9208-0812a2d35736
     name: button-yes-up.png
     type: 0
-    sprite: {fileID: 21300000, guid: 7a21ea9e5fec7da4a9334d6713d0610d, type: 3}
+    sprite: {fileID: 21300000, guid: 54a60f8db9168ed4eb2c20e81ce9506f, type: 3}
   - id: c8e7cadc-2463-4c6f-9730-4de14ec5ef8b
     name: icon-fish.png
     type: 0
-    sprite: {fileID: 21300000, guid: c952b188a6e6e774485ac1f25198fa11, type: 3}
+    sprite: {fileID: 21300000, guid: eea78c646df555a4787ce2ef3914bc19, type: 3}
   - id: cd0cf010-5b50-4b9a-a4ea-67e0629f77b1
     name: Surprised_Icon.png
     type: 0
-    sprite: {fileID: 21300000, guid: 78bb6b3445eef0541a4e23d74ad2a4a8, type: 3}
+    sprite: {fileID: 21300000, guid: ff1a38b25d127d8448ac6965fa5c81d8, type: 3}
   - id: d1406279-d5c8-4b10-925d-1ef33473e1ee
     name: brown flower.png
     type: 0
-    sprite: {fileID: 21300000, guid: 2f9a065aae61d2848a4d7303ead9bb5a, type: 3}
+    sprite: {fileID: 21300000, guid: bdb85358c5679b04cab4c0090e526081, type: 3}
   - id: d34838db-fca5-4ac0-a55b-d6f4a6832c77
     name: Sleepy_Icon.png
     type: 0
-    sprite: {fileID: 21300000, guid: e238e4da40149814caa5c6e6d394af94, type: 3}
+    sprite: {fileID: 21300000, guid: 3ea1621dca9770b4998ef0e47a10fa81, type: 3}
   - id: d5526de1-6df6-456e-8517-ebeb63938a06
     name: grey flower.png
     type: 0
-    sprite: {fileID: 21300000, guid: 5cc4d0d477bd83c4d8f678d25b595253, type: 3}
+    sprite: {fileID: 21300000, guid: fe89164cfa51af3418d7ff8a068d250a, type: 3}
   - id: d9c2f1b3-c46b-4d54-9458-04379109463c
     name: mango.png
     type: 0
-    sprite: {fileID: 21300000, guid: 3985a8a2b407e2a4bb90ab43b3a12461, type: 3}
+    sprite: {fileID: 21300000, guid: 4b3bac1f43029e74ebf6861eb8f574d1, type: 3}
+  - id: dbc4106c-cfc8-4c9f-a559-2a341b35dd03
+    name: Garden.jpeg
+    type: 0
+    sprite: {fileID: 21300000, guid: 234d5cc58c7c99640bb39a6a075f8401, type: 3}
   - id: dc6f52b5-d2a4-42a9-bc0a-907cf3212704
     name: hand.png
     type: 0
-    sprite: {fileID: 21300000, guid: d9071762c73f4f54b8374e594227338b, type: 3}
+    sprite: {fileID: 21300000, guid: 3230ca5263c93634aae84f065a68c200, type: 3}
   - id: df3c75e7-94a3-4365-bdfb-64f009822203
     name: Happy_Icon.png
     type: 0
-    sprite: {fileID: 21300000, guid: 737e91e3719ac654ebc4388a178514ad, type: 3}
+    sprite: {fileID: 21300000, guid: 776cfdcddd30c9b40a4f8012f3dbc912, type: 3}
   - id: e1af9083-2482-4363-a389-b7cf8357773b
     name: orange.png
     type: 0
-    sprite: {fileID: 21300000, guid: 817639d22652ac24a8f8e4492aa55c48, type: 3}
+    sprite: {fileID: 21300000, guid: 67aafc775e405c34d9d28e20381b46ba, type: 3}
   - id: e4ed33f0-4f07-4e72-acc5-47af325a9cb9
     name: Hungry_Icon.png
     type: 0
-    sprite: {fileID: 21300000, guid: d4493e36ffda87145b2cc2f6a887501f, type: 3}
+    sprite: {fileID: 21300000, guid: f77d9cc0e8d72404097c0d8badc4290b, type: 3}
+  - id: f756dcef-45fc-4707-83de-bf2867c18a9f
+    name: jill1.png
+    type: 0
+    sprite: {fileID: 21300000, guid: 412b812c7134ad449ade4e395ad05b01, type: 3}
   assetFolders:
   - id: 647d0495-341f-42b2-8788-b47dace22bf8
     name: Root
     childIds:
+    - 41ddb366-ef33-43f4-9a82-335000ee957a
+    - f756dcef-45fc-4707-83de-bf2867c18a9f
     - e1af9083-2482-4363-a389-b7cf8357773b
     - 25dd664d-61fa-44e9-accb-5e5a9902ff03
     - d9c2f1b3-c46b-4d54-9458-04379109463c
@@ -192,6 +210,8 @@ MonoBehaviour:
     - 43582e1b-3d7c-4ce3-aabe-437447ce7a6f
     - d34838db-fca5-4ac0-a55b-d6f4a6832c77
     - cd0cf010-5b50-4b9a-a4ea-67e0629f77b1
+    - 234f5153-5eb5-4736-9fa2-6fdbf0d90c51
+    - dbc4106c-cfc8-4c9f-a559-2a341b35dd03
     - dc6f52b5-d2a4-42a9-bc0a-907cf3212704
   attributes:
   - id: 4d5aa1b5-333c-4de5-8729-378e6ed431eb
@@ -204,7 +224,17 @@ MonoBehaviour:
     labelNoStyle: 
     content: 
     contentNoStyle: 
+  - id: 8ac72b56-6e9a-43de-8f0d-9ef765d3e4c5
+    label: 
+    labelNoStyle: 
+    content: 
+    contentNoStyle: 
   - id: 8ea81071-c453-4f4d-be17-042ec123fa3e
+    label: 
+    labelNoStyle: 
+    content: 
+    contentNoStyle: 
+  - id: 951f113b-9bda-4b79-a6d8-12476a1a0026
     label: 
     labelNoStyle: 
     content: 
@@ -216,6 +246,7 @@ MonoBehaviour:
     contentNoStyle: 
   components:
   - {fileID: 11400000, guid: b35ef86bb1049264b8b5ee3f110e5f00, type: 2}
+  - {fileID: 11400000, guid: d2d224106e74ca944b2a7ede917bd183, type: 2}
   - {fileID: 11400000, guid: 93a0aa898d93cd148b4b4846f38b3412, type: 2}
   - {fileID: 11400000, guid: 13d3537f6507bf54080dd7fff2e25889, type: 2}
   - {fileID: 11400000, guid: 36b7c5db29650ee41a89ff7ca1d42653, type: 2}
@@ -226,6 +257,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: dd1ee733547f17041a271a8bf7597b10, type: 2}
   - {fileID: 11400000, guid: 6617c070bb301494f904dbb9726f7e47, type: 2}
   - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+  - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
   - {fileID: 11400000, guid: 261876a925fd0a44abdf447d0d8a5f69, type: 2}
   - {fileID: 11400000, guid: df1e85ed1b642684fb2fad171cfe7e28, type: 2}
   - {fileID: 11400000, guid: bca0ad57c4f247e448028c51d168b197, type: 2}
@@ -236,6 +268,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 879b11c607ce84b4abb751308a778079, type: 2}
   - {fileID: 11400000, guid: cf5bc4b6b5ec264468b558331f41d19a, type: 2}
   - {fileID: 11400000, guid: 3af2dbc170a6b8f41ba1359bb0fe5d17, type: 2}
+  - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
   - {fileID: 11400000, guid: b428ed72b91a1704694c9acb21e61f63, type: 2}
   - {fileID: 11400000, guid: 7c20e4c6eb5083a4586c12f78ac1b910, type: 2}
   - {fileID: 11400000, guid: 69d507100447d6449adb9f2ab8e2fc26, type: 2}
@@ -244,6 +277,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: cf741f44b5ee93d43995ff63812d4391, type: 2}
   - {fileID: 11400000, guid: a88ca8f6591e26c45b7dc2f94c2a2d1c, type: 2}
   - {fileID: 11400000, guid: 838a29291ea46b84dbbe4f4d8291ecf1, type: 2}
+  - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
   - {fileID: 11400000, guid: f2a261752a6fe954cb6dbd5477b64e73, type: 2}
   - {fileID: 11400000, guid: 72157dba7b6df064aadf1aae158ac39d, type: 2}
   - {fileID: 11400000, guid: 456e494767eb0204a8a1e7e96716b2fd, type: 2}
@@ -257,344 +291,1019 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 238862a0bae9d3c45ad0d94f13fc9b43, type: 2}
   - {fileID: 11400000, guid: 187c6e7a108c9d24d84ff04a6b344efb, type: 2}
   elements:
-  - id: bdd91677-1a89-4519-a5d7-021dfc13b7eb
-    title: No, Thank You
-    titleNoStyle: No, Thank You
-    content: 'No, Thank You
-
-
-'
-    contentNoStyle: No, Thank You
+  - id: 709427b8-2a23-46a0-a7ff-d3cf407ab43c
+    title: Story Beggining
+    titleNoStyle: Story Beggining
+    content: Your friend Sam runs up to you and asks you to play a game with him.
+    contentNoStyle: Your friend Sam runs up to you and asks you to play a game with
+      him.
     components:
-    - {fileID: 11400000, guid: 142e67e677f75a043988a9cf638c93a1, type: 2}
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
     linkedBoardId: 
-    coverID: 550003ea-6024-4844-b183-52d1eaa70f29
-  - id: f5637ede-8aaf-4c40-91eb-dbabede0d646
-    title: No, I Don't
-    titleNoStyle: No, I Don't
-    content: 'No, I Don''t
-
-
-'
-    contentNoStyle: No, I Don't
-    components:
-    - {fileID: 11400000, guid: 142e67e677f75a043988a9cf638c93a1, type: 2}
-    linkedBoardId: 
-    coverID: 550003ea-6024-4844-b183-52d1eaa70f29
-  - id: 1aa1be96-7a6a-4287-b141-40f9f6810e6a
-    title: Ok Goodbye
-    titleNoStyle: Ok Goodbye
-    content: 'Okay
-
-
-      That''s it for today.
-
-
-      Goodbye!
-
-
-'
-    contentNoStyle: OkayThat's it for today.Goodbye!
-    components: []
-    linkedBoardId: 
-    coverID: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0
-  - id: 732d23f0-39e0-4f7b-9139-03abb0260012
-    title: Yes Lets Paint
-    titleNoStyle: Yes Lets Paint
-    content: 'Okay, let''s paint!
-
-
-'
-    contentNoStyle: Okay, let's paint!
-    components: []
-    linkedBoardId: 
-    coverID: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0
-  - id: 04481d89-e590-4750-a340-c99b471890c0
-    title: Yes .... please
-    titleNoStyle: Yes .... please
-    content: 'Yes .... please
-
-
-'
-    contentNoStyle: Yes .... please
-    components:
-    - {fileID: 11400000, guid: 49f1ec2b1d75b184f899886ed0a8e327, type: 2}
-    linkedBoardId: 
-    coverID: 550003ea-6024-4844-b183-52d1eaa70f29
-  - id: 21decbf6-867e-489d-891c-d37def5f5511
-    title: Would you like to paint?
-    titleNoStyle: Would you like to paint?
-    content: 'I paint in the garden!
-
-
-      Would you like to paint?'
-    contentNoStyle: I paint in the garden!Would you like to paint?
-    components:
-    - {fileID: 11400000, guid: 142e67e677f75a043988a9cf638c93a1, type: 2}
-    linkedBoardId: 
-    coverID: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0
-  - id: 67cd8cb9-4eac-4882-b9f5-6eef26c13aae
-    title: Yes I Do
-    titleNoStyle: Yes I Do
-    content: 'Yes I Do
-
-
-'
-    contentNoStyle: Yes I Do
-    components:
-    - {fileID: 11400000, guid: 49f1ec2b1d75b184f899886ed0a8e327, type: 2}
-    linkedBoardId: 
-    coverID: 550003ea-6024-4844-b183-52d1eaa70f29
-  - id: 830125c9-a81c-42f9-9ef2-c1d03b3f7278
-    title: Do you like Painting? -pos
-    titleNoStyle: Do you like Painting? -pos
-    content: 'Great!
-
-
-      Do you like ...?
-
-
-      Painting?'
-    contentNoStyle: Great!Do you like ...?Painting?
-    components:
-    - {fileID: 11400000, guid: 261876a925fd0a44abdf447d0d8a5f69, type: 2}
-    - {fileID: 11400000, guid: b35ef86bb1049264b8b5ee3f110e5f00, type: 2}
-    linkedBoardId: 
-    coverID: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0
-  - id: 4b581703-7196-4357-b129-7c69d86a4e60
-    title: Do you like Painting? -neg
-    titleNoStyle: Do you like Painting? -neg
-    content: 'O no!
-
-
-      Do you like ...?
-
-
-      Painting?
-
-
-'
-    contentNoStyle: O no!Do you like ...?Painting?
-    components: []
-    linkedBoardId: 
-    coverID: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0
-  - id: 2dc5a230-d4a8-4c6f-81d0-e1b864e01055
-    title: Positive Reactions
-    titleNoStyle: Positive Reactions
-    content: '
-
-
-'
-    contentNoStyle: 
-    components:
-    - {fileID: 11400000, guid: 879b11c607ce84b4abb751308a778079, type: 2}
-    - {fileID: 11400000, guid: a88ca8f6591e26c45b7dc2f94c2a2d1c, type: 2}
-    - {fileID: 11400000, guid: b35ef86bb1049264b8b5ee3f110e5f00, type: 2}
-    linkedBoardId: 
-    coverID: 550003ea-6024-4844-b183-52d1eaa70f29
-  - id: adde39bf-b089-4279-b290-b9fd02843f75
-    title: Negative Reactions
-    titleNoStyle: Negative Reactions
-    content: 
-    contentNoStyle: 
-    components:
-    - {fileID: 11400000, guid: 456e494767eb0204a8a1e7e96716b2fd, type: 2}
-    - {fileID: 11400000, guid: 83d85a234c6398648888ca837ab10972, type: 2}
-    - {fileID: 11400000, guid: 980e723601295bf498c05d5792657a5d, type: 2}
-    linkedBoardId: 
-    coverID: 550003ea-6024-4844-b183-52d1eaa70f29
-  - id: 27d25690-8f7e-464a-bbd8-d06f2db0def8
-    title: How are you today?
-    titleNoStyle: How are you today?
-    content: 'How are you today?
-
-
-'
-    contentNoStyle: How are you today?
-    components: []
-    linkedBoardId: 
-    coverID: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0
-  - id: 3ba63daf-6f96-4e13-8197-156cefe7e15d
-    title: Drawing Reaction
-    titleNoStyle: Drawing Reaction
-    content: 'Wow!
-
-
-      or
-
-
-      Yay'
-    contentNoStyle: Wow!orYay
-    components:
-    - {fileID: 11400000, guid: 261876a925fd0a44abdf447d0d8a5f69, type: 2}
-    - {fileID: 11400000, guid: b35ef86bb1049264b8b5ee3f110e5f00, type: 2}
-    linkedBoardId: 
-    coverID: 550003ea-6024-4844-b183-52d1eaa70f29
-  - id: f1b82be7-3aae-4b45-8986-32b4db9cdb34
-    title: I'm A Stork
-    titleNoStyle: I'm A Stork
-    content: 'I''m a stork.
-
-
-      I like drawing my friends!'
-    contentNoStyle: I'm a stork.I like drawing my friends!
-    components: []
-    linkedBoardId: 
-    coverID: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0
-  - id: a7ea1688-0e6c-484e-8912-66d69c351952
-    title: Wave
-    titleNoStyle: Wave
-    content: 'Hi.
-
-
-'
-    contentNoStyle: Hi.
-    components:
-    - {fileID: 11400000, guid: 93a0aa898d93cd148b4b4846f38b3412, type: 2}
-    linkedBoardId: 
-    coverID: 550003ea-6024-4844-b183-52d1eaa70f29
-  - id: d0e791fc-e269-4f24-9b6e-ecb5d4928dc3
-    title: Stella Greetings
-    titleNoStyle: Stella Greetings
-    content: 'Hello!
-
-
-      I''m Stella!
-
-
-      anim: Waving'
-    contentNoStyle: 'Hello!I''m Stella!anim: Waving'
-    components: []
-    linkedBoardId: 
-    coverID: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0
-  - id: 478f1c77-0648-4b84-a360-4b98808a1749
+    coverID: 
+  - id: 9a0d8298-f426-4570-b9b5-acaaeb4dfc37
     title: null
     titleNoStyle: 
-    content: 'hi i''m...    offset box 9-0.5)
-
-
-      Sally    play
-
-
-'
-    contentNoStyle: hi i'm...    offset box 9-0.5)Sally    play
+    content: BaCk tO ScHoOL 4 U
+    contentNoStyle: BaCk tO ScHoOL 4 U
     components: []
     linkedBoardId: 
     coverID: 
+  - id: 49a7deb9-810f-4c83-90bd-74e59987f50c
+    title: null
+    titleNoStyle: 
+    content: Yes! Let's Play!
+    contentNoStyle: Yes! Let's Play!
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 179f2e89-62ff-4468-aa78-244b2ac885cc
+    title: Hide and Seek
+    titleNoStyle: Hide and Seek
+    content: "\u201CWe\u2019re playing Hide and Seek, where should we hide?\u201D "
+    contentNoStyle: "\u201CWe\u2019re playing Hide and Seek, where should we hide?\u201D "
+    components:
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: d49be353-6d41-4a23-a4f5-630ca471a5e6
+    title: THE GARDEN - TBC
+    titleNoStyle: THE GARDEN - TBC
+    content: 'This contains no data as yet. Go back to the start. '
+    contentNoStyle: 'This contains no data as yet. Go back to the start. '
+    components: []
+    linkedBoardId: 
+    coverID: 
+  - id: 610fc3dd-799b-4ef9-bd5c-bd98d7e46769
+    title: null
+    titleNoStyle: 
+    content: Found you Jill!
+    contentNoStyle: Found you Jill!
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 514f09ed-878c-4670-ba6d-ded2f108e37e
+    title: 
+    titleNoStyle: 
+    content: As your friends run off into the woods you start counting to 20.
+    contentNoStyle: As your friends run off into the woods you start counting to
+      20.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 26e4f7e3-31b8-41dc-b776-372bffa72e1c
+    title: <b>The Forest - STORY</b>
+    titleNoStyle: The Forest - STORY
+    content: "\u201CLet\u2019s hide in the forest\u201D"
+    contentNoStyle: "\u201CLet\u2019s hide in the forest\u201D"
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 937664a4-f84d-45e8-8742-617c30a3294b
+    title: null
+    titleNoStyle: 
+    content: "\u201CGreat. Lets go, quickly, Jill is coming to find us.\u201D"
+    contentNoStyle: "\u201CGreat. Lets go, quickly, Jill is coming to find us.\u201D"
+    components:
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 96f94054-521e-436e-849f-a444176ff0a3
+    title: 
+    titleNoStyle: 
+    content: You and Sam run to the Forest and find a big log to hide under.
+    contentNoStyle: You and Sam run to the Forest and find a big log to hide under.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 29cda33c-55d3-4e23-b37d-2b3e3bb6f80c
+    title: 
+    titleNoStyle: 
+    content: You hear Jill coming to find you as she walks through the leaves on
+      the foot path.
+    contentNoStyle: You hear Jill coming to find you as she walks through the leaves
+      on the foot path.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: f36653c0-337f-4931-943e-8bd3e2f0c61b
+    title: 
+    titleNoStyle: 
+    content: Sam starts to giggle as she walks past your hiding spot and Jill turns
+      to see what the noise is.
+    contentNoStyle: Sam starts to giggle as she walks past your hiding spot and Jill
+      turns to see what the noise is.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 9cbc0503-24a5-4a33-8373-3642f4bd5bdc
+    title: 
+    titleNoStyle: 
+    content: "\u201CAh ha! I found you!\""
+    contentNoStyle: "\u201CAh ha! I found you!\""
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 9ee9fa46-c43d-4ca6-999b-d8509408d3a6
+    title: 
+    titleNoStyle: 
+    content: You jump up and everyone starts laughing.
+    contentNoStyle: You jump up and everyone starts laughing.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 61331110-f896-4be8-8cdc-3d0a214c394b
+    title: 
+    titleNoStyle: 
+    content: '"Now, It''s your turn to find us"'
+    contentNoStyle: '"Now, It''s your turn to find us"'
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: daaae2dd-db05-4607-b62b-17f86851c4cd
+    title: 
+    titleNoStyle: 
+    content: 'Now, Count to 20 and then come and find us...
+
+
+'
+    contentNoStyle: Now, Count to 20 and then come and find us...
+    components:
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: f178145f-ddd2-4cde-9431-35f7b58be408
+    title: null
+    titleNoStyle: 
+    content: '1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19...
+
+
+      20!
+
+
+      Ready
+      or not, Here I come!'
+    contentNoStyle: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19...20!Ready or
+      not, Here I come!
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 5e500fca-0629-4241-8364-a9ba65529f3d
+    title: You look behind the Log pile
+    titleNoStyle: You look behind the Log pile
+    content: 'You look behind the Log pileLookedAt_Logpile = true
+
+
+'
+    contentNoStyle: You look behind the Log pileLookedAt_Logpile = true
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 3164b665-dcd5-496b-84e0-6428f3839d25
+    title: You look under the pile of leaves
+    titleNoStyle: You look under the pile of leaves
+    content: You look under the pile of leaves
+    contentNoStyle: You look under the pile of leaves
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: b8ce87cc-f543-4c9c-902a-59a3f7d5a330
+    title: You look behind the woodshed
+    titleNoStyle: You look behind the woodshed
+    content: You look behind the woodshedLookedAt_Woodshed = true
+    contentNoStyle: You look behind the woodshedLookedAt_Woodshed = true
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 3ff4602f-5043-4b6a-91f7-eb96b0275903
+    title: You look below the bridge
+    titleNoStyle: You look below the bridge
+    content: You look below the bridgeLookedAt_Bridge = true
+    contentNoStyle: You look below the bridgeLookedAt_Bridge = true
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 0d5c7049-d092-407d-9574-7f82e9cafd49
+    title: null
+    titleNoStyle: 
+    content: You find Sam in the Leaves!
+    contentNoStyle: You find Sam in the Leaves!
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: ea3af906-d292-4d40-92e4-a2c644a3735d
+    title: null
+    titleNoStyle: 
+    content: Found you Sam!
+    contentNoStyle: Found you Sam!
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: a8bb1528-0f7f-4754-8ee3-3aae819e7956
+    title: null
+    titleNoStyle: 
+    content: "You then look inside a tree and see Jill\u2019s shoes"
+    contentNoStyle: "You then look inside a tree and see Jill\u2019s shoes"
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: cc75b52a-ec46-4d28-9854-5c23303c060b
+    title: 
+    titleNoStyle: 
+    content: 'Jill Jumps up with a big smile!
+
+
+      As she climbs out of the tree,
+      a map falls onto the ground.'
+    contentNoStyle: Jill Jumps up with a big smile!As she climbs out of the tree,
+      a map falls onto the ground.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 843a4277-20a1-4dcf-9810-aaf10318106b
+    title: 
+    titleNoStyle: 
+    content: What is that?
+    contentNoStyle: What is that?
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: dc979d8a-376e-4a54-9aea-1c48fe78305b
+    title: null
+    titleNoStyle: 
+    content: "\u201CIt\u2019s a Map!\n\nLet\u2019s take a look.\""
+    contentNoStyle: "\u201CIt\u2019s a Map!Let\u2019s take a look.\""
+    components:
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 4192e342-a994-4e97-b711-3cb7f4c54072
+    title: null
+    titleNoStyle: 
+    content: The map looks very old. It has a dotted line that ends in a big red
+      X.
+    contentNoStyle: The map looks very old. It has a dotted line that ends in a big
+      red X.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 00498b76-ba74-4f37-bbef-79d0385cc4de
+    title: null
+    titleNoStyle: 
+    content: "\u201CA treasure map!\u201D"
+    contentNoStyle: "\u201CA treasure map!\u201D"
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: d52d9ac7-7a8c-4ee1-9d81-bf45a6c4b9f9
+    title: 
+    titleNoStyle: 
+    content: "\u201CShould we follow it and see where it goes?\u201D"
+    contentNoStyle: "\u201CShould we follow it and see where it goes?\u201D"
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 9bde60ac-5842-4c52-8414-b4d34b78c742
+    title: null
+    titleNoStyle: 
+    content: "\u201CYes! We should!\u201D"
+    contentNoStyle: "\u201CYes! We should!\u201D"
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: ff941daf-96c0-409f-87dd-f9e96e77bbaa
+    title: null
+    titleNoStyle: 
+    content: But where does it lead?
+    contentNoStyle: But where does it lead?
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 5e313d9e-a93f-47df-8827-aca3c52709fb
+    title: null
+    titleNoStyle: 
+    content: "\u201CI think it says go to the Port Town,\u201D"
+    contentNoStyle: "\u201CI think it says go to the Port Town,\u201D"
+    components:
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: bb04fff6-2e29-4a16-869f-7e229169457b
+    title: DECISION TIME
+    titleNoStyle: DECISION TIME
+    content: 'You start to look for your friends.
+
+
+      Where should you look?'
+    contentNoStyle: You start to look for your friends.Where should you look?
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: a7f22ac6-7bc7-415b-a387-9a05f5491adc
+    title: null
+    titleNoStyle: 
+    content: Now, both You and Sam are looking for Jill
+    contentNoStyle: Now, both You and Sam are looking for Jill
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 93b8fb19-a33a-4779-a90f-8605c01222fd
+    title: null
+    titleNoStyle: 
+    content: '"No, It looks like it goes to the Lake.
+
+
+      Which way should we
+      go?"'
+    contentNoStyle: '"No, It looks like it goes to the Lake.Which way should we go?"'
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 64dda691-d584-417f-b4da-167ef8593310
+    title: 'Dont Choose this. '
+    titleNoStyle: 'Dont Choose this. '
+    content: <i>FUTURE LAKE CONTENT ON ANOTHER BOARD</i>
+    contentNoStyle: FUTURE LAKE CONTENT ON ANOTHER BOARD
+    components: []
+    linkedBoardId: 
+    coverID: 
+  - id: dcd42757-a32d-45bb-bb6e-200257a3e5f7
+    title: Port Town  - Story
+    titleNoStyle: Port Town  - Story
+    content: As you arrive in the Port Town, You see  beautiful old buildings, a
+      marketplace and a big statue at the end of the pier.
+    contentNoStyle: As you arrive in the Port Town, You see  beautiful old buildings,
+      a marketplace and a big statue at the end of the pier.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 08c8f227-d599-4a32-8cba-4b537fa2c482
+    title: null
+    titleNoStyle: 
+    content: "\u201CThat\u2019s the statue from the map\u201D"
+    contentNoStyle: "\u201CThat\u2019s the statue from the map\u201D"
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: f3f5a074-c97a-49e7-a5cd-a3e0c9424994
+    title: null
+    titleNoStyle: 
+    content: 
+    contentNoStyle: 
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: da4604ce-63f0-4f9c-a34a-4cf7fc7fd975
+    title: null
+    titleNoStyle: 
+    content: Hi Oliver!
+    contentNoStyle: Hi Oliver!
+    components:
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 73f0e4c0-7d3c-4c65-b61c-e51dc5c1ad21
+    title: null
+    titleNoStyle: 
+    content: He Tells you that there is a new Ice cream shop opening up today, and
+      they have free ice cream but it will be ending soon.
+    contentNoStyle: He Tells you that there is a new Ice cream shop opening up today,
+      and they have free ice cream but it will be ending soon.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: f6818907-8923-4875-ac09-1c3d4e91f909
+    title: null
+    titleNoStyle: 
+    content: Do you want to Go and look at the Statue, or get some ice cream?
+    contentNoStyle: Do you want to Go and look at the Statue, or get some ice cream?
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 5a501122-abd5-4995-9665-b6d3ecb03619
+    title: Ice Cream - Story
+    titleNoStyle: Ice Cream - Story
+    content: null
+    contentNoStyle: 
+    components: []
+    linkedBoardId: 
+    coverID: 
+  - id: b5499fc9-ab4d-4925-882d-baddf418484a
+    title: Find Statue - Story
+    titleNoStyle: Find Statue - Story
+    content: "Let's find the statue! \n\nSorry Oliver, Ice Cream can wait. I want
+      to find that treasure!"
+    contentNoStyle: Let's find the statue! Sorry Oliver, Ice Cream can wait. I want
+      to find that treasure!
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 24fc3be0-902a-4f06-a2f0-b783e2a0ca98
+    title: null
+    titleNoStyle: 
+    content: 'You walk to the statue and see that there are 3 shapes on the side
+      of the statue.
+
+
+      They click when you turn them.'
+    contentNoStyle: You walk to the statue and see that there are 3 shapes on the
+      side of the statue.They click when you turn them.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: ea22e398-67c2-40cc-80e2-8f78d8b216dc
+    title: null
+    titleNoStyle: 
+    content: There is a square, a pentagon and a hexagon.
+    contentNoStyle: There is a square, a pentagon and a hexagon.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 9446a9e0-6212-42e5-87d9-c3a4cc512d34
+    title: 
+    titleNoStyle: 
+    content: 'A square has 4 sides. '
+    contentNoStyle: 'A square has 4 sides. '
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 6d156b4f-39f6-47ea-b97b-b58024b19e85
+    title: null
+    titleNoStyle: 
+    content: A pentagon has 5 sides
+    contentNoStyle: A pentagon has 5 sides
+    components:
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: b52843f8-9dc5-4e3b-8ebd-85aecf637276
+    title: null
+    titleNoStyle: 
+    content: 'And a hexagon has 6 sides
+
+
+      Lets turn each shape the amount of
+      sides that they have. '
+    contentNoStyle: 'And a hexagon has 6 sidesLets turn each shape the amount of
+      sides that they have. '
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: af1f1ca0-6d89-4d2b-bd4e-97ffef0621a4
+    title: null
+    titleNoStyle: 
+    content: You turn the square 4 times.
+    contentNoStyle: You turn the square 4 times.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 2f341020-883b-4a59-8712-0cef24256673
+    title: 
+    titleNoStyle: 
+    content: 1,2,3,4.
+    contentNoStyle: 1,2,3,4.
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 7324738e-4446-4e09-b3ca-69773cf0b65c
+    title: null
+    titleNoStyle: 
+    content: Then you turn the Pentagon 5 times.
+    contentNoStyle: Then you turn the Pentagon 5 times.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 1a8d046e-2984-4beb-bb8e-8d59c8613e6c
+    title: null
+    titleNoStyle: 
+    content: 1,2,3,4,5
+    contentNoStyle: 1,2,3,4,5
+    components:
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 47a5d633-0412-441b-ab3c-2dbf204239fb
+    title: null
+    titleNoStyle: 
+    content: Now you turn the Hexagon 6 times
+    contentNoStyle: Now you turn the Hexagon 6 times
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 926beca8-6923-4eec-ac1d-d989ddb18c3a
+    title: null
+    titleNoStyle: 
+    content: "1,2,3,4,5\u2026.6!"
+    contentNoStyle: "1,2,3,4,5\u2026.6!"
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 258be25c-273a-4e5a-998c-3e13191b676f
+    title: null
+    titleNoStyle: 
+    content: You hear a loud click sound and a secret door opens up on the wall near
+      the statue.
+    contentNoStyle: You hear a loud click sound and a secret door opens up on the
+      wall near the statue.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 08ddd56f-8e2d-4641-ab4a-98d30a80186c
+    title: null
+    titleNoStyle: 
+    content: WOW! Look at that!
+    contentNoStyle: WOW! Look at that!
+    components:
+    - {fileID: 11400000, guid: 51cf4bbb9f332874f94af5f6e3478b8d, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: e2c86429-a157-41a3-a88c-800e869b539a
+    title: null
+    titleNoStyle: 
+    content: 'A Real Pirate Treasure chest!
+
+
+      Let''s open it up!'
+    contentNoStyle: A Real Pirate Treasure chest!Let's open it up!
+    components:
+    - {fileID: 11400000, guid: 53101e2a12c7ef040a4e66ce7e94789f, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 90c66bf0-59f9-4064-9341-ecf29c686ffe
+    title: null
+    titleNoStyle: 
+    content: 'You open the treasure chest
+
+
+      There are lots and lots of gold
+      coins and Jewels. '
+    contentNoStyle: 'You open the treasure chestThere are lots and lots of gold coins
+      and Jewels. '
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 50a16868-5c98-4ed8-9ae3-0df016de5366
+    title: null
+    titleNoStyle: 
+    content: " I can\u2019t wait to tell our friends about this!"
+    contentNoStyle: " I can\u2019t wait to tell our friends about this!"
+    components:
+    - {fileID: 11400000, guid: 3f5536edac0c2f54e82731907061c471, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 15adac7b-095c-4349-990a-85844c4c376d
+    title: null
+    titleNoStyle: 
+    content: 'Oliver heard all the cheering and ran over with his icecream, but he
+      slipped over on the wet floor, his ice cream went everywhere but he landed
+      sitting right on top of the treasure chest.
+
+
+'
+    contentNoStyle: Oliver heard all the cheering and ran over with his icecream,
+      but he slipped over on the wet floor, his ice cream went everywhere but he
+      landed sitting right on top of the treasure chest.
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 956ecfda-c578-4026-8cd9-0eefd3612a7f
+    title: null
+    titleNoStyle: 
+    content: "A crown from the treasure chest flew into the air and landed on his
+      head. \n\nEveryone burst out laughing! It was very funny. "
+    contentNoStyle: 'A crown from the treasure chest flew into the air and landed
+      on his head. Everyone burst out laughing! It was very funny. '
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
+  - id: 77a4a0f1-631f-4942-9e20-8d5496d8905a
+    title: STORY END
+    titleNoStyle: STORY END
+    content: 'And that, is the end of the Story. '
+    contentNoStyle: 'And that, is the end of the Story. '
+    components:
+    - {fileID: 11400000, guid: 3ed76c0b5956bd74384be3772b2b6ec7, type: 2}
+    linkedBoardId: 
+    coverID: 
   connections:
-  - id: 18c7ffdd-4091-4f4b-a01f-cb72787e7a17
+  - id: 6f0b364b-8f2c-4d74-a6ce-2f12633bb85c
+    label: No thanks
+    labelNoStyle: No thanks
+    sourceElementId: 709427b8-2a23-46a0-a7ff-d3cf407ab43c
+    targetElementId: 9a0d8298-f426-4570-b9b5-acaaeb4dfc37
+  - id: 414e110b-6825-4b47-b221-c846d03a57ac
     label: null
     labelNoStyle: 
-    sourceElementId: f1b82be7-3aae-4b45-8986-32b4db9cdb34
-    targetElementId: 3ba63daf-6f96-4e13-8197-156cefe7e15d
-  - id: 6ce3856c-bb4c-47b0-af21-84eee3b2fc82
-    label: Yay!
-    labelNoStyle: Yay!
-    sourceElementId: 3ba63daf-6f96-4e13-8197-156cefe7e15d
-    targetElementId: 27d25690-8f7e-464a-bbd8-d06f2db0def8
-  - id: 4656b614-b916-409b-b9df-58c736ab6caa
-    label: I'm Happy
-    labelNoStyle: I'm Happy
-    sourceElementId: 2dc5a230-d4a8-4c6f-81d0-e1b864e01055
-    targetElementId: 830125c9-a81c-42f9-9ef2-c1d03b3f7278
-  - id: f7296acc-ce9e-4188-8296-d97759a75ab4
-    label: i'm tired
-    labelNoStyle: i'm tired
-    sourceElementId: adde39bf-b089-4279-b290-b9fd02843f75
-    targetElementId: 4b581703-7196-4357-b129-7c69d86a4e60
-  - id: dd67b935-9a78-42c5-adb4-e2fb2f67a7b2
+    sourceElementId: 709427b8-2a23-46a0-a7ff-d3cf407ab43c
+    targetElementId: 49a7deb9-810f-4c83-90bd-74e59987f50c
+  - id: db40b1b3-3733-4f42-b432-1e8c45ab8293
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 49a7deb9-810f-4c83-90bd-74e59987f50c
+    targetElementId: 179f2e89-62ff-4468-aa78-244b2ac885cc
+  - id: 6475d92b-6b60-4409-b40b-cfecb6efc57b
+    label: Let's hide in the Forest!
+    labelNoStyle: Let's hide in the Forest!
+    sourceElementId: 179f2e89-62ff-4468-aa78-244b2ac885cc
+    targetElementId: c5c8cf3b-efd8-4aa7-b0a3-4792a1c113f3
+  - id: 1a6a5202-a424-483e-ba03-77eecb514f41
+    label: Lets hide in the Garden!
+    labelNoStyle: Lets hide in the Garden!
+    sourceElementId: 179f2e89-62ff-4468-aa78-244b2ac885cc
+    targetElementId: d49be353-6d41-4a23-a4f5-630ca471a5e6
+  - id: 08a2e10f-001e-4249-83ed-e5971ab265f3
     label: null
     labelNoStyle: 
-    sourceElementId: 4b581703-7196-4357-b129-7c69d86a4e60
-    targetElementId: 67cd8cb9-4eac-4882-b9f5-6eef26c13aae
-  - id: c50bb07c-bd2b-4e25-a349-7afef58a51c9
+    sourceElementId: d49be353-6d41-4a23-a4f5-630ca471a5e6
+    targetElementId: 709427b8-2a23-46a0-a7ff-d3cf407ab43c
+  - id: 9f765661-dbd5-4674-bfa2-ba11f821ee13
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 3164b665-dcd5-496b-84e0-6428f3839d25
+    targetElementId: 0d5c7049-d092-407d-9574-7f82e9cafd49
+  - id: 6ed51e20-320a-4f48-b6bc-b1396fa224e3
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 0d5c7049-d092-407d-9574-7f82e9cafd49
+    targetElementId: ea3af906-d292-4d40-92e4-a2c644a3735d
+  - id: 10fd69d9-9643-4965-8c65-e2483d552525
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 26e4f7e3-31b8-41dc-b776-372bffa72e1c
+    targetElementId: 937664a4-f84d-45e8-8742-617c30a3294b
+  - id: 9c1858ce-f716-4f47-a87c-f57f7be5d920
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 937664a4-f84d-45e8-8742-617c30a3294b
+    targetElementId: 96f94054-521e-436e-849f-a444176ff0a3
+  - id: c3429d12-4a9a-4479-bde6-8573f9172ab1
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 96f94054-521e-436e-849f-a444176ff0a3
+    targetElementId: 29cda33c-55d3-4e23-b37d-2b3e3bb6f80c
+  - id: 2636c5c0-eb16-4af3-b15b-c52a89db8d54
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 29cda33c-55d3-4e23-b37d-2b3e3bb6f80c
+    targetElementId: f36653c0-337f-4931-943e-8bd3e2f0c61b
+  - id: 5a6257cc-2c9a-4f37-b914-b849c698d781
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: f36653c0-337f-4931-943e-8bd3e2f0c61b
+    targetElementId: 9cbc0503-24a5-4a33-8373-3642f4bd5bdc
+  - id: cccca3d0-5de6-4665-8433-e0678f1cf785
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 9cbc0503-24a5-4a33-8373-3642f4bd5bdc
+    targetElementId: 9ee9fa46-c43d-4ca6-999b-d8509408d3a6
+  - id: a8db6c2c-4899-432d-aa8d-4ff7824eda01
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 9ee9fa46-c43d-4ca6-999b-d8509408d3a6
+    targetElementId: 61331110-f896-4be8-8cdc-3d0a214c394b
+  - id: a6d90bbb-6455-4a21-a978-7fff7d141ded
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 61331110-f896-4be8-8cdc-3d0a214c394b
+    targetElementId: daaae2dd-db05-4607-b62b-17f86851c4cd
+  - id: 5c5406c9-1b70-4259-b577-fd8d3ea8a3a9
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: daaae2dd-db05-4607-b62b-17f86851c4cd
+    targetElementId: 514f09ed-878c-4670-ba6d-ded2f108e37e
+  - id: 3bccd92c-e2d2-400b-aef0-165a742f03f0
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 514f09ed-878c-4670-ba6d-ded2f108e37e
+    targetElementId: f178145f-ddd2-4cde-9431-35f7b58be408
+  - id: e9780bc4-427a-4e6b-9e68-b7fe494ccbf5
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: f178145f-ddd2-4cde-9431-35f7b58be408
+    targetElementId: bb04fff6-2e29-4a16-869f-7e229169457b
+  - id: 0e97d817-8d44-4af1-a106-78602d3cc9f3
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: a7f22ac6-7bc7-415b-a387-9a05f5491adc
+    targetElementId: a8bb1528-0f7f-4754-8ee3-3aae819e7956
+  - id: c47202c9-7a1b-4389-a6e7-6369df006cb6
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: ea3af906-d292-4d40-92e4-a2c644a3735d
+    targetElementId: a7f22ac6-7bc7-415b-a387-9a05f5491adc
+  - id: 3ed9e1c6-96a1-4451-a592-09117132e036
+    label: Nothing there.
+    labelNoStyle: Nothing there.
+    sourceElementId: 5e500fca-0629-4241-8364-a9ba65529f3d
+    targetElementId: bb04fff6-2e29-4a16-869f-7e229169457b
+  - id: 2309ecf3-6386-49e8-add1-92536229d95b
+    label: Nothing there.
+    labelNoStyle: Nothing there.
+    sourceElementId: b8ce87cc-f543-4c9c-902a-59a3f7d5a330
+    targetElementId: bb04fff6-2e29-4a16-869f-7e229169457b
+  - id: fd536587-b9ff-4df9-b1e1-a54c01e31bf6
+    label: Nothing there.
+    labelNoStyle: Nothing there.
+    sourceElementId: 3ff4602f-5043-4b6a-91f7-eb96b0275903
+    targetElementId: bb04fff6-2e29-4a16-869f-7e229169457b
+  - id: f6cc4908-28d9-445e-bc5d-a7506557b71d
+    label: Pile of Leaves
+    labelNoStyle: Pile of Leaves
+    sourceElementId: bb04fff6-2e29-4a16-869f-7e229169457b
+    targetElementId: 3164b665-dcd5-496b-84e0-6428f3839d25
+  - id: d8b73d46-94f9-45c1-9f00-029e83b33318
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: a8bb1528-0f7f-4754-8ee3-3aae819e7956
+    targetElementId: 610fc3dd-799b-4ef9-bd5c-bd98d7e46769
+  - id: 34238afd-9a8d-47b6-baa5-84f1e28e4818
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 610fc3dd-799b-4ef9-bd5c-bd98d7e46769
+    targetElementId: cc75b52a-ec46-4d28-9854-5c23303c060b
+  - id: 16e2a742-e1f1-45c2-b5db-6ab246ff621a
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: cc75b52a-ec46-4d28-9854-5c23303c060b
+    targetElementId: 843a4277-20a1-4dcf-9810-aaf10318106b
+  - id: 4e58b1fd-516a-4802-a73e-aba8eb7f9df9
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 843a4277-20a1-4dcf-9810-aaf10318106b
+    targetElementId: dc979d8a-376e-4a54-9aea-1c48fe78305b
+  - id: 1221313f-0ef6-4d3c-8daf-1959c094381b
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: dc979d8a-376e-4a54-9aea-1c48fe78305b
+    targetElementId: 4192e342-a994-4e97-b711-3cb7f4c54072
+  - id: e8cc6f5a-211b-4091-b776-c3035df6c44a
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 4192e342-a994-4e97-b711-3cb7f4c54072
+    targetElementId: 00498b76-ba74-4f37-bbef-79d0385cc4de
+  - id: 0f5a819e-9a65-4f92-9928-6386aad8c925
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 00498b76-ba74-4f37-bbef-79d0385cc4de
+    targetElementId: d52d9ac7-7a8c-4ee1-9d81-bf45a6c4b9f9
+  - id: ade4b2b4-a215-4f95-a5fa-1e96379f2c96
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: d52d9ac7-7a8c-4ee1-9d81-bf45a6c4b9f9
+    targetElementId: 9bde60ac-5842-4c52-8414-b4d34b78c742
+  - id: 7e108f1c-8dd0-4c58-bd03-964ab14aaa22
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 9bde60ac-5842-4c52-8414-b4d34b78c742
+    targetElementId: ff941daf-96c0-409f-87dd-f9e96e77bbaa
+  - id: 4d5e2071-a4d3-4565-9e15-495ff0ab565a
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: ff941daf-96c0-409f-87dd-f9e96e77bbaa
+    targetElementId: 5e313d9e-a93f-47df-8827-aca3c52709fb
+  - id: cf865690-19cc-4c6f-9334-714094015230
     label: null
     labelNoStyle: 
-    sourceElementId: 830125c9-a81c-42f9-9ef2-c1d03b3f7278
-    targetElementId: 67cd8cb9-4eac-4882-b9f5-6eef26c13aae
-  - id: 0ecc42a9-a504-408d-b5a7-06cadb9a7a6f
+    sourceElementId: 64dda691-d584-417f-b4da-167ef8593310
+    targetElementId: 7b65bf8e-efe8-41fa-93bf-5d4d8848ad6e
+  - id: 943e53e2-6604-4568-8e07-0256e2d0c2b6
+    label: Lets go to the Lake
+    labelNoStyle: Lets go to the Lake
+    sourceElementId: 93b8fb19-a33a-4779-a90f-8605c01222fd
+    targetElementId: 64dda691-d584-417f-b4da-167ef8593310
+  - id: 818bcf0e-42f0-404e-9a4c-1c1fce881aab
+    label: Lets go to the Port Town
+    labelNoStyle: Lets go to the Port Town
+    sourceElementId: 93b8fb19-a33a-4779-a90f-8605c01222fd
+    targetElementId: 7b65bf8e-efe8-41fa-93bf-5d4d8848ad6e
+  - id: 1958f50c-441e-4ba1-95dc-7f61a16875c6
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 5e313d9e-a93f-47df-8827-aca3c52709fb
+    targetElementId: 93b8fb19-a33a-4779-a90f-8605c01222fd
+  - id: c8ef80cf-cbfa-4352-b4e6-dbd3dd519dc0
+    label: Stack of Logs
+    labelNoStyle: Stack of Logs
+    sourceElementId: bb04fff6-2e29-4a16-869f-7e229169457b
+    targetElementId: 5e500fca-0629-4241-8364-a9ba65529f3d
+  - id: cfd28473-3855-484c-816b-9f4c643a506a
+    label: The Woodshed
+    labelNoStyle: The Woodshed
+    sourceElementId: bb04fff6-2e29-4a16-869f-7e229169457b
+    targetElementId: b8ce87cc-f543-4c9c-902a-59a3f7d5a330
+  - id: bb6afa2b-1903-48f4-958a-9924a920edc1
+    label: The Bridge
+    labelNoStyle: The Bridge
+    sourceElementId: bb04fff6-2e29-4a16-869f-7e229169457b
+    targetElementId: 3ff4602f-5043-4b6a-91f7-eb96b0275903
+  - id: 07fbf3a2-2811-425c-b6ad-1a3057c1fbc0
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: dcd42757-a32d-45bb-bb6e-200257a3e5f7
+    targetElementId: 08c8f227-d599-4a32-8cba-4b537fa2c482
+  - id: 92a9e77a-bad6-431c-bd97-e820708b84a6
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 08c8f227-d599-4a32-8cba-4b537fa2c482
+    targetElementId: f3f5a074-c97a-49e7-a5cd-a3e0c9424994
+  - id: 2a6f84d0-e104-44d5-b529-256b6412f7c5
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: f3f5a074-c97a-49e7-a5cd-a3e0c9424994
+    targetElementId: da4604ce-63f0-4f9c-a34a-4cf7fc7fd975
+  - id: 8f56dcd8-014f-46bf-a1f7-33f59ebd9ef9
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: da4604ce-63f0-4f9c-a34a-4cf7fc7fd975
+    targetElementId: 73f0e4c0-7d3c-4c65-b61c-e51dc5c1ad21
+  - id: 1715a5df-0b94-432c-b3a8-9a2b54e2f307
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 73f0e4c0-7d3c-4c65-b61c-e51dc5c1ad21
+    targetElementId: f6818907-8923-4875-ac09-1c3d4e91f909
+  - id: f6270e9d-3e4a-4279-a5ac-50dc4e49531a
+    label: Let's find the statue
+    labelNoStyle: Let's find the statue
+    sourceElementId: f6818907-8923-4875-ac09-1c3d4e91f909
+    targetElementId: e8e28421-8305-4c17-bc90-61739f94631e
+  - id: fd1dcabf-5bb9-4312-8564-46b08acef9d9
+    label: Let's Get some free Ice cream
+    labelNoStyle: Let's Get some free Ice cream
+    sourceElementId: f6818907-8923-4875-ac09-1c3d4e91f909
+    targetElementId: fefffbbf-96d0-4628-a16b-abd13cefbdba
+  - id: 382f5c6e-aecb-4ac5-ad2a-97af9afc6ffb
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: b5499fc9-ab4d-4925-882d-baddf418484a
+    targetElementId: 24fc3be0-902a-4f06-a2f0-b783e2a0ca98
+  - id: 3f187c63-1bc2-49d6-b5af-9ccaf7da3b06
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: b52843f8-9dc5-4e3b-8ebd-85aecf637276
+    targetElementId: af1f1ca0-6d89-4d2b-bd4e-97ffef0621a4
+  - id: 2b76ef0f-e041-4b58-b039-81e4b463e175
+    label: Turn the Square
+    labelNoStyle: Turn the Square
+    sourceElementId: af1f1ca0-6d89-4d2b-bd4e-97ffef0621a4
+    targetElementId: 2f341020-883b-4a59-8712-0cef24256673
+  - id: 32cc8e94-d28c-4bf6-a767-2881661864e1
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 2f341020-883b-4a59-8712-0cef24256673
+    targetElementId: 7324738e-4446-4e09-b3ca-69773cf0b65c
+  - id: 2818c765-0e00-42df-9a08-1c5df56df839
+    label: Turn the Pentagon
+    labelNoStyle: Turn the Pentagon
+    sourceElementId: 7324738e-4446-4e09-b3ca-69773cf0b65c
+    targetElementId: 1a8d046e-2984-4beb-bb8e-8d59c8613e6c
+  - id: da9f4b6e-b5c2-4db2-a6d6-abc308c960ce
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 1a8d046e-2984-4beb-bb8e-8d59c8613e6c
+    targetElementId: 47a5d633-0412-441b-ab3c-2dbf204239fb
+  - id: d26fa822-c097-499d-a6dd-1cff821a7897
+    label: Turn the Hexagon
+    labelNoStyle: Turn the Hexagon
+    sourceElementId: 47a5d633-0412-441b-ab3c-2dbf204239fb
+    targetElementId: 926beca8-6923-4eec-ac1d-d989ddb18c3a
+  - id: 6186ab25-5ed7-4ab3-9eda-65840b572c66
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 24fc3be0-902a-4f06-a2f0-b783e2a0ca98
+    targetElementId: ea22e398-67c2-40cc-80e2-8f78d8b216dc
+  - id: 0b9ec6b9-8984-4cc1-a5f8-b48f93e475a0
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: ea22e398-67c2-40cc-80e2-8f78d8b216dc
+    targetElementId: 9446a9e0-6212-42e5-87d9-c3a4cc512d34
+  - id: a53ba0f0-6628-45ee-8f7a-d274762eadc8
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 9446a9e0-6212-42e5-87d9-c3a4cc512d34
+    targetElementId: 6d156b4f-39f6-47ea-b97b-b58024b19e85
+  - id: aa3937d7-f4e4-4629-8225-852e4453c6d1
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 6d156b4f-39f6-47ea-b97b-b58024b19e85
+    targetElementId: b52843f8-9dc5-4e3b-8ebd-85aecf637276
+  - id: 5d3872bf-a8c6-4572-99b3-1ba5e843ab47
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 926beca8-6923-4eec-ac1d-d989ddb18c3a
+    targetElementId: 258be25c-273a-4e5a-998c-3e13191b676f
+  - id: 6cdb51fb-9a8a-424d-a2c7-3c9a27a096c9
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 258be25c-273a-4e5a-998c-3e13191b676f
+    targetElementId: 08ddd56f-8e2d-4641-ab4a-98d30a80186c
+  - id: 798c3c56-6850-415f-b77e-22c522434b8c
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 08ddd56f-8e2d-4641-ab4a-98d30a80186c
+    targetElementId: e2c86429-a157-41a3-a88c-800e869b539a
+  - id: 43b04a4e-7213-4b8f-a864-14d986a17966
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: e2c86429-a157-41a3-a88c-800e869b539a
+    targetElementId: 90c66bf0-59f9-4064-9341-ecf29c686ffe
+  - id: c4aa1bee-1678-4a9c-9705-2ca5cfa7c933
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 90c66bf0-59f9-4064-9341-ecf29c686ffe
+    targetElementId: 50a16868-5c98-4ed8-9ae3-0df016de5366
+  - id: dbde7b88-40e2-40eb-9b42-2f86ff126587
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 50a16868-5c98-4ed8-9ae3-0df016de5366
+    targetElementId: 15adac7b-095c-4349-990a-85844c4c376d
+  - id: bfe9e469-1d57-4f55-aaf4-415a3052ff28
+    label: Next
+    labelNoStyle: Next
+    sourceElementId: 15adac7b-095c-4349-990a-85844c4c376d
+    targetElementId: 956ecfda-c578-4026-8cd9-0eefd3612a7f
+  - id: 74c6a1ee-b40a-4082-abba-9567e05aaef9
     label: null
     labelNoStyle: 
-    sourceElementId: 67cd8cb9-4eac-4882-b9f5-6eef26c13aae
-    targetElementId: 21decbf6-867e-489d-891c-d37def5f5511
-  - id: 9b9954e2-04cd-4a0b-b36e-c9b073a5bcef
-    label: null
-    labelNoStyle: 
-    sourceElementId: 21decbf6-867e-489d-891c-d37def5f5511
-    targetElementId: 04481d89-e590-4750-a340-c99b471890c0
-  - id: 00ef215b-148c-4292-bce4-8bccf47e55d1
-    label: null
-    labelNoStyle: 
-    sourceElementId: 04481d89-e590-4750-a340-c99b471890c0
-    targetElementId: 732d23f0-39e0-4f7b-9139-03abb0260012
-  - id: 3d5804db-f054-4c49-9b09-5b6073394290
-    label: null
-    labelNoStyle: 
-    sourceElementId: d0e791fc-e269-4f24-9b6e-ecb5d4928dc3
-    targetElementId: a7ea1688-0e6c-484e-8912-66d69c351952
-  - id: cc63483e-4d0f-40f9-80b0-c9fde242a427
-    label: null
-    labelNoStyle: 
-    sourceElementId: a7ea1688-0e6c-484e-8912-66d69c351952
-    targetElementId: f1b82be7-3aae-4b45-8986-32b4db9cdb34
-  - id: b46270f3-0632-4a08-b11a-93cd123b6d56
-    label: null
-    labelNoStyle: 
-    sourceElementId: 27d25690-8f7e-464a-bbd8-d06f2db0def8
-    targetElementId: adde39bf-b089-4279-b290-b9fd02843f75
-  - id: 9ad35d60-f752-4ce3-9149-3762aa073d30
-    label: null
-    labelNoStyle: 
-    sourceElementId: 27d25690-8f7e-464a-bbd8-d06f2db0def8
-    targetElementId: 2dc5a230-d4a8-4c6f-81d0-e1b864e01055
-  - id: 5d3a41b1-7032-4299-b6da-5fe3a5aff398
-    label: null
-    labelNoStyle: 
-    sourceElementId: 830125c9-a81c-42f9-9ef2-c1d03b3f7278
-    targetElementId: f5637ede-8aaf-4c40-91eb-dbabede0d646
-  - id: e10f02f9-19a2-474e-9b9b-3f4437e0fd03
-    label: null
-    labelNoStyle: 
-    sourceElementId: 4b581703-7196-4357-b129-7c69d86a4e60
-    targetElementId: f5637ede-8aaf-4c40-91eb-dbabede0d646
-  - id: 623f3685-d0b2-4eed-889b-4a14a56223f7
-    label: null
-    labelNoStyle: 
-    sourceElementId: f5637ede-8aaf-4c40-91eb-dbabede0d646
-    targetElementId: 21decbf6-867e-489d-891c-d37def5f5511
-  - id: 82ae25bb-25c4-4405-9730-5ef76e3c9370
-    label: null
-    labelNoStyle: 
-    sourceElementId: 21decbf6-867e-489d-891c-d37def5f5511
-    targetElementId: bdd91677-1a89-4519-a5d7-021dfc13b7eb
-  - id: 8a770480-a7d0-47bc-949b-0d5b2ab0964a
-    label: null
-    labelNoStyle: 
-    sourceElementId: bdd91677-1a89-4519-a5d7-021dfc13b7eb
-    targetElementId: 1aa1be96-7a6a-4287-b141-40f9f6810e6a
-  - id: 00e70d35-1f59-4f9f-af00-8e2b6265b1fe
-    label: Wow
-    labelNoStyle: Wow
-    sourceElementId: 3ba63daf-6f96-4e13-8197-156cefe7e15d
-    targetElementId: 27d25690-8f7e-464a-bbd8-d06f2db0def8
-  - id: 6a9918d3-dfe5-476f-acd5-41314cd798cf
-    label: im sad
-    labelNoStyle: im sad
-    sourceElementId: adde39bf-b089-4279-b290-b9fd02843f75
-    targetElementId: 4b581703-7196-4357-b129-7c69d86a4e60
-  - id: 10b4e097-6e9e-4a98-b453-0e400b6cf150
-    label: im angry
-    labelNoStyle: im angry
-    sourceElementId: adde39bf-b089-4279-b290-b9fd02843f75
-    targetElementId: 4b581703-7196-4357-b129-7c69d86a4e60
+    sourceElementId: 956ecfda-c578-4026-8cd9-0eefd3612a7f
+    targetElementId: ebb60193-163a-48ab-82bc-73e6ee91ce58
   notes:
-  - id: afafa222-d4fe-4f2d-9b03-ce73f5e1c1a7
+  - id: 662fb297-172e-4831-a8b5-679acb18f383
+    content: 
+  - id: 56f24e3f-01ec-4b94-a995-832589309b50
     content: 
   boards:
-  - {fileID: 11400000, guid: 8edc8e7f5c775ae43a02081ed7503a45, type: 2}
+  - {fileID: 11400000, guid: 325e7e4822e827e44af45ec517beb211, type: 2}
+  - {fileID: 11400000, guid: ccb3ed8df58d39947b277f94ccc68860, type: 2}
+  - {fileID: 11400000, guid: 957a212d1e2aa194dab4f15c0b8f5ba8, type: 2}
+  - {fileID: 11400000, guid: a2f13e459341888489d7b9c02b8f2dc5, type: 2}
   boardFolders: []
-  jumpers: []
+  jumpers:
+  - id: c5c8cf3b-efd8-4aa7-b0a3-4792a1c113f3
+    boardID: 7711bcee-8c47-40f9-8379-6378c97ab3aa
+    elementID: 26e4f7e3-31b8-41dc-b776-372bffa72e1c
+  - id: 6c1d9483-0e6c-4abc-9311-9d6cd1ba281b
+    boardID: 7711bcee-8c47-40f9-8379-6378c97ab3aa
+    elementID: 26e4f7e3-31b8-41dc-b776-372bffa72e1c
+  - id: 7b65bf8e-efe8-41fa-93bf-5d4d8848ad6e
+    boardID: 8b23068e-ef64-4a0d-ad26-bd64dbc22edb
+    elementID: dcd42757-a32d-45bb-bb6e-200257a3e5f7
+  - id: fefffbbf-96d0-4628-a16b-abd13cefbdba
+    boardID: 9a175034-6f16-4e24-a982-e2335da8496e
+    elementID: 5a501122-abd5-4995-9665-b6d3ecb03619
+  - id: e8e28421-8305-4c17-bc90-61739f94631e
+    boardID: 9a175034-6f16-4e24-a982-e2335da8496e
+    elementID: b5499fc9-ab4d-4925-882d-baddf418484a
+  - id: ebb60193-163a-48ab-82bc-73e6ee91ce58
+    boardID: 9a175034-6f16-4e24-a982-e2335da8496e
+    elementID: 77a4a0f1-631f-4942-9e20-8d5496d8905a
   startingBoardIdx: 0
-  folderPath: C:/Users/micro/Desktop/Unity Projects/UnityBranchingDialogSystem/Assets/Arcweave
-    Export
-  sourceTimestamp: 5249285750867387904
+  folderPath: E:/RABC GAMEJAM/UnityGameJamProsper2021/Assets/Arcweave Export
+  sourceTimestamp: 5249287894910255059

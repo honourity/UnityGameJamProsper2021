@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 37085f1e-1ec8-4dbc-b246-e6f5612eda6e
   realName: Stella
-  attributeIDs: []
+  attributeIDs:
+  - 951f113b-9bda-4b79-a6d8-12476a1a0026
   coverID: 53a9ca01-6e4c-4d77-9de9-0c3d7271d0b0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b749214ae53a0f48b90ee4aaa6c4603, type: 3}
+  m_Name: a2f4dea2-a5ec-467a-8596-e953f8c6170b
+  m_EditorClassIdentifier: 
+  id: a2f4dea2-a5ec-467a-8596-e953f8c6170b
+  realName: Sam
+  attributeIDs: []
+  coverID: 41ddb366-ef33-43f4-9a82-335000ee957a

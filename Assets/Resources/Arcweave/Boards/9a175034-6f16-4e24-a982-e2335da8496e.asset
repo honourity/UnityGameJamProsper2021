@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40108bba90e82f24b9d09951efc93d10, type: 3}
+  m_Name: 9a175034-6f16-4e24-a982-e2335da8496e
+  m_EditorClassIdentifier: 
+  id: 9a175034-6f16-4e24-a982-e2335da8496e
+  realName: Port town Board
+  noteIds: []
+  elementIds:
+  - dcd42757-a32d-45bb-bb6e-200257a3e5f7
+  - 08c8f227-d599-4a32-8cba-4b537fa2c482
+  - f3f5a074-c97a-49e7-a5cd-a3e0c9424994
+  - da4604ce-63f0-4f9c-a34a-4cf7fc7fd975
+  - 73f0e4c0-7d3c-4c65-b61c-e51dc5c1ad21
+  - f6818907-8923-4875-ac09-1c3d4e91f909
+  - 5a501122-abd5-4995-9665-b6d3ecb03619
+  - b5499fc9-ab4d-4925-882d-baddf418484a
+  - 24fc3be0-902a-4f06-a2f0-b783e2a0ca98
+  - ea22e398-67c2-40cc-80e2-8f78d8b216dc
+  - 9446a9e0-6212-42e5-87d9-c3a4cc512d34
+  - 6d156b4f-39f6-47ea-b97b-b58024b19e85
+  - b52843f8-9dc5-4e3b-8ebd-85aecf637276
+  - af1f1ca0-6d89-4d2b-bd4e-97ffef0621a4
+  - 2f341020-883b-4a59-8712-0cef24256673
+  - 7324738e-4446-4e09-b3ca-69773cf0b65c
+  - 1a8d046e-2984-4beb-bb8e-8d59c8613e6c
+  - 47a5d633-0412-441b-ab3c-2dbf204239fb
+  - 926beca8-6923-4eec-ac1d-d989ddb18c3a
+  - 258be25c-273a-4e5a-998c-3e13191b676f
+  - 08ddd56f-8e2d-4641-ab4a-98d30a80186c
+  - e2c86429-a157-41a3-a88c-800e869b539a
+  - 90c66bf0-59f9-4064-9341-ecf29c686ffe
+  - 50a16868-5c98-4ed8-9ae3-0df016de5366
+  - 15adac7b-095c-4349-990a-85844c4c376d
+  - 956ecfda-c578-4026-8cd9-0eefd3612a7f
+  rootElementId: dcd42757-a32d-45bb-bb6e-200257a3e5f7
