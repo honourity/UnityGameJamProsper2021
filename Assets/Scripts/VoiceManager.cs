@@ -48,39 +48,39 @@ public class VoiceManager : MonoBehaviour
 
 	private IEnumerator SpeakCoroutine(Element source)
     {
+		var text = source.content;
+
 		//default fallback voice
-		var voice = "en-US-Wavenet-A";
+		var voice = "en-GB-Wavenet-C";
+		var pitch = "-2.4";
+		var speed = "0.93";
 
 		var sourceComponentId = source.components.FirstOrDefault()?.id;
 		var component = ArcweaveManager.Instance.Project.components.FirstOrDefault(c => c.id == sourceComponentId);
 
-		if (component?.realName == "Milton")
+		if (component?.realName == "Sam")
         {
 			voice = "en-GB-Wavenet-B";
+			pitch = "11.6";
+			speed = "1.07";
 		}
-		else if (component?.realName == "Stella")
+		else if (component?.realName == "Jill")
         {
-			voice = "en-US-Wavenet-F";
+			voice = "en-GB-Wavenet-A";
+			pitch = "4.0";
+			speed = "0.89";
 		}
-		else if (component?.realName == "Sally")
+		else if (component?.realName == "Student")
 		{
-			voice = "en-GB-Wavenet-C";
-		}
-		else if (component?.realName == "Rusty")
-		{
-			voice = "en-GB-Standard-B";
+			voice = "en-GB-Wavenet-F";
+			pitch = "6.4";
+			speed = "0.81";
 		}
 
-		//todo - look at element
-		// decide voice type
-		var text = source.content;
+		var data = "{ \"audioConfig\": { \"audioEncoding\": \"LINEAR16\", \"pitch\": " + pitch + ", \"speakingRate\": " + speed + " }, \"input\": { \"text\": \"" + text + "\" }, \"voice\": { \"languageCode\": \"" + voice.Substring(0, 5) + "\", \"name\": \"" + voice + "\" } }";
 
 		if (!string.IsNullOrEmpty(text))
         {
-			
-
-			var data = "{ \"audioConfig\": { \"audioEncoding\": \"LINEAR16\", \"pitch\": 0, \"speakingRate\": 1 }, \"input\": { \"text\": \"" + text + "\" }, \"voice\": { \"languageCode\": \"" + voice.Substring(0, 5) + "\", \"name\": \"" + voice + "\" } }";
-
 			var key = data.ToMD5();
 
 			if (!_clips.ContainsKey(key))
@@ -97,8 +97,10 @@ public class VoiceManager : MonoBehaviour
 			{
 				Debug.LogWarning("Unable to load audio from local cache or fetch online. Check API key or other errors");
 			}
-
-			_audioSource.PlayOneShot(_clips[key]);
+			else
+            {
+				_audioSource.PlayOneShot(_clips[key]);
+			}
 		}
 	}
 
